@@ -1,0 +1,3493 @@
+National Union Party	0
+Constitutionalist Liberal Party	1
+Shantaram Naik	2
+Hans Blix	3
+Sergei Kupriyanov	4
+Cisse Lancine	5
+Johnny Araya Monge	6
+Shozaburo Nakamura	7
+John Odigie-Oyegun	8
+CPI	9
+Inter Service Intelligence	10
+Agriculture / Fishing / Forestry Ministry	11
+Serbia	12
+Nikolai Ivanovich Ryzhkov	13
+Exiled Opposition	14
+Zapatista Army of National Liberation	15
+Jerry John Rawlings	16
+Ukrainian National Guard	17
+Zsolt Simon	18
+Kembo Dugish Campbell Mohadi	19
+Kano Emirate	20
+Ukrinform	21
+Gilberto Carvalho	22
+Korean Workers Party	23
+East African Community	24
+Activist	25
+Greenpeace	26
+Honorary Consul	27
+Adel Adawy	28
+Luiz Inacio Lula Da Silva	29
+Qassim Atta	30
+Independent Electoral Commission	31
+Chishimba Kambwili	32
+Julia Gillard	33
+Valentinas Mazuronis	34
+Edouard Nduwimana	35
+Insurgent Leader	36
+Hassan Tukur	37
+Norov Altankhuyag	38
+Military Judge	39
+Raushan Ershad	40
+Democratic Republic of Congo	41
+Sunil Kumar	42
+Philippe Couillard	43
+Lyutvi Mestan	44
+Emeka Ihedioha	45
+Youth and Sports Ministry	46
+Citizen	47
+Opposition Activist	48
+Drug Enforcement Administration	49
+Philip Boedoro	50
+Yoshihiko Noda	51
+Werner Faymann	52
+Salil Shetty	53
+Freedom Party	54
+Eugene Wamalwa	55
+Lloyd Austin	56
+Ange-Félix Patassé	57
+Akif Hamzaçebi	58
+Muhammadiyah	59
+Telugu Desam Party	60
+Carlos Alberto Libanio Christo	61
+Roshen	62
+Mohammadollah Batash	63
+Vasily Golubev	64
+Sukhbir Badal	65
+Mohamad Hanif Atmar	66
+Jacob Walles	67
+Mano	68
+Yabloko	69
+Yitzhak Rabin	70
+Montenegro	71
+Governor	72
+Regulator	73
+Liechtenstein	74
+Barnaba Marial Benjamin	75
+Jan Mládek	76
+James Cavallaro	77
+Congress for Democratic Change	78
+Olga Lavrova	79
+José Juan Bautista Pampuro	80
+Steven Chu	81
+Sheikh Ali Salman	82
+Asli Aydintasbas	83
+Malaysian People's Party	84
+Saudi Arabia	85
+Joanne Liu	86
+Mongolia	87
+Joseph Ole Lenku	88
+Bhaskar Reddy	89
+Jose Ma. Zubiri	90
+Tedjo Edhy Purdijatno	91
+Andrea Rocchelli	92
+Council of Europe	93
+Paolo Gentiloni	94
+Mehr News Agency	95
+Ashraf al-Qudra	96
+Michelin	97
+Association of Southeast Asian Nations	98
+Member of the Judiciary	99
+Turkish Airlines	100
+Theresa May	101
+Baldev Singh	102
+Manuel Pulgar Vidal	103
+Children	104
+Bahrain	105
+Ignazio Marino	106
+Husam Mughazi	107
+Fresh Democratic Party	108
+Intellectual	109
+University of Zimbabwe	110
+The Daily Mirror	111
+National Coalition for Syrian Revolutionary and Opposition Forces	112
+Shalva Natelashvili	113
+Abdolreza Rahmani-Fazli	114
+Spanish Socialist Workers' Party	115
+Egyptian Army	116
+Abdulsalami Alhaji Abubakar	117
+African Union	118
+Kyrgyzstan	119
+Labor Union	120
+Henk Kamp	121
+Canadian Manufacturers & Exporters	122
+Vladimir Puchkov	123
+Local Media	124
+Naglis Puteikis	125
+Student Dissident	126
+Netherlands	127
+Alpha Condé	128
+Natik Abbas Hasan al-Bayati	129
+Catholic Bishop	130
+Nurul Izzah Anwar	131
+Georgian Labour Party	132
+Regional Governor	133
+Michael D. Higgins	134
+Your Party	135
+AK Singh	136
+Alexander Lukashevich	137
+Office of the United Nations High Commissioner for Human Rights	138
+Augustine Chihuri	139
+Secretary of State for International Development	140
+Yemen	141
+Conspiracy of Fire Nuclei	142
+Suriname	143
+Daniel Scioli	144
+Prime Minister Qarase	145
+Terrorist Organization	146
+Rehman Malik	147
+Government Information Agency	148
+Mikhail Sergeyevich Gorbachev	149
+Augustine Ngafuan	150
+Karin Enström	151
+Jackson Mandago	152
+Popular Congress	153
+Rand Paul	154
+Mohammed Deif	155
+Panama Canal Authority	156
+Olga Kefalogianni	157
+Rupiah Banda	158
+Hunter	159
+Malaysia	160
+Aam Aadmi Party	161
+Raúl Sendic	162
+Nomgcobo Jiba	163
+Lars Løkke Rasmussen	164
+Albert Reynolds	165
+Security Service of Ukraine	166
+Lin Yi-hsiung	167
+Belgium	168
+Kikuyu	169
+Asa'ib Ahl al-Haq	170
+John Campbell	171
+Jonah David Jang	172
+Jagdish Mukhi	173
+Population	174
+Emma Bonino	175
+ACT Party	176
+Military Personnel	177
+Daniel Ceballos	178
+Eslam Khatami	179
+Marian Harkin	180
+Republican People's Party	181
+Aero Vodochody	182
+University of Cape Town	183
+John F. Kelly	184
+Salman Bin-Abd-al-Aziz	185
+Sandiganbayan	186
+Viktor Bondarev	187
+Labor Party	188
+Sahrawi people	189
+Alliance for Democracy	190
+Scott Walker	191
+Sato Kilman	192
+Armenia	193
+International Association Of Democratic Lawyers	194
+Herwig van Staa	195
+Eric Matinenga	196
+Milton Serima	197
+Emmanuel Eweta Uduaghan	198
+Efkan Ala	199
+Michael Hayden	200
+Robert Hughes	201
+Basque Nationalist Party	202
+Settlement Chikwinya	203
+International Federation of Human Rights	204
+Islam Karimov	205
+Joshua Wong	206
+Guinea-Bissau	207
+Bola Ajibola	208
+Félix Houphouët-Boigny	209
+Subaru	210
+Government Delegation	211
+United Arab Emirates	212
+Bangladesh Nationalist Party	213
+Mahinda Rajapaksa	214
+Elections Canada	215
+Liberal Democratic Party of Russia	216
+Augusto Barrera	217
+RJR	218
+Firhad Hakim	219
+Gulbuddin Hekmatyar	220
+Chen Shui Bian	221
+Sex Trade	222
+Vincent Cable	223
+Niger	224
+Chief Engineer	225
+Foxconn Technology Group	226
+Sharia Court	227
+Yukos	228
+Maja Kocijancic	229
+Miguel Angel Mancera	230
+Joe Manchin	231
+Algerian National Navy	232
+Ingrid Betancourt Pulecio	233
+Die Linke	234
+Chang Wanquan	235
+ITAR TASS	236
+Jaime Trobo	237
+Shivshankar Menon	238
+Gen Prayut Chan-o-cha	239
+Samuel Ruiz	240
+Al-Shabaab	241
+Diego García Sayán	242
+Rodrigo Londoño-Echeverry	243
+Manish Sisodia	244
+David Hanson	245
+György Matolcsy	246
+Jean Qahwaji	247
+Prem Singh	248
+Democractic Party of Cote d'Ivoire - African Democratic Rally	249
+Miguel Ángel Osorio Chong	250
+Nurse	251
+Mali	252
+John E. Potter	253
+RIA Novosti	254
+RENAMO	255
+Mathias Meinrad Chikawe	256
+Dianne Feinstein	257
+Unidentified State Actor	258
+Korean Confederation of Trade Unions	259
+Public Sector	260
+Kulbir Singh	261
+Zambia National Broadcasting Corporation	262
+Rebel Commander	263
+Director General	264
+Ramesh Chennithala	265
+Pierre Vimont	266
+Vytenis Povilas Andriukaitis	267
+Uhuru Muigai Kenyatta	268
+Philippine Military Academy	269
+Stanislav Yuryevich Markelov	270
+Carlos Cerda	271
+Nationalist Movement Party	272
+Civil Servant	273
+Ibrahim Shekarau	274
+Cenaida Uribe	275
+Nigerian Governors Forum	276
+Deborah Malac	277
+Military of Hungary	278
+Liwaa Semeism	279
+Cuba	280
+House of Councillors	281
+Drug Dealer	282
+Armed Force	283
+Franklin Drilon	284
+David Blunkett	285
+Immigrants	286
+Robert Jones Portman	287
+Joe Igbokwe	288
+Ethnic Tamil	289
+The Standard	290
+Society of Colombian Agricultural Producers	291
+Leopoldo López	292
+Alhaji Garba Umar	293
+Hong Kong	294
+Czech Republic	295
+North Korea	296
+Buba Galadima	297
+Trondheim	298
+Bolivia	299
+South African Chamber of Commerce and Industry	300
+Goran Rakic	301
+Naval	302
+Ali Bongo Ondimba	303
+Daniela Bobeva	304
+Dharam Singh	305
+Hamdeen Sabahi	306
+Kiichi Miyazawa	307
+Cleric	308
+Syrian Islamic Front	309
+Jaysh al-Islam	310
+Looter	311
+Jack Straw	312
+Miguel Galván Gutiérrez	313
+Rose Gottemoeller	314
+Mitiku Kasa	315
+Usman Sa'idu Nasamu Dakingari	316
+Gilgit–Baltistan	317
+Jund al-Aqsa	318
+Kidnapper	319
+Louise Mushikiwabo	320
+Provisional Irish Republican Army	321
+Fadli Zon	322
+Rauf Aregbesola	323
+Kenneth Roth	324
+Nuon Chea	325
+Military Wing	326
+Abu al-Walid	327
+Ghadir Investment Company	328
+Jean-Yves Le Drian	329
+Patrice Paoli	330
+Pavol Hrusovský	331
+Granma	332
+Military Intelligence	333
+Pierre Amine Gemayel	334
+Al Sharq al Awsat	335
+Gabriel Torwua Suswam	336
+Tehran Times	337
+Somali National Army	338
+Jorge Enrique Taiana	339
+Abdelkader Messahel	340
+Rostam Qasemi	341
+Kamla Persad-Bissessar	342
+Independence Party	343
+Arseniy Yatsenyuk	344
+Liaqat Baloch	345
+Karen Andreasyan	346
+Tata Group	347
+Radimir Čačić	348
+Stephane Le Foll	349
+All India Sikh Students Federation	350
+Steven Marshall	351
+Aggrey Tisa Sabuni	352
+Mike Moore	353
+Hossein Ali Amiri	354
+Philip Hammond	355
+Xinjiang Uyghur	356
+Charis Georgiadis	357
+Ved Pratap Vaidik	358
+National Security and Intelligence Services	359
+Civil Authority	360
+Juan Luis Manzur	361
+Rafiq Hariri	362
+Japan Restoration Party	363
+Alfonso Prat Gay	364
+National Election Committee	365
+Fred Gumo	366
+Ukranian Truth	367
+North Atlantic Treaty Organization	368
+Reform Party	369
+Andrew Wilkie	370
+Voice of the Voiceless	371
+Moussa Faki Mahamat	372
+Brahmin	373
+Ng Eng Hen	374
+Central Intelligence Agency	375
+Henk Mudge	376
+Foreign Affairs	377
+Tsai Ing-wen	378
+Joan Burton	379
+Karim Wade	380
+Eurasian Economic Community	381
+Nicholas Haysom	382
+Vic Toews	383
+Mujahidin Shura Council in the Environs of Jerusalem	384
+Charge D'affaires	385
+Taiwan Affairs Office	386
+Newspaper	387
+Tribal Rebel	388
+Isaias Afewerki	389
+Martin Spegelj	390
+Samuel J. Locklear	391
+Trade Official	392
+Bahia Hariri	393
+Jonathan Vatsa	394
+Zambian Defence Force	395
+South Asia	396
+Social Democratic Union	397
+Presidential Movement	398
+Roh Moo Hyun	399
+Costco	400
+Ecuador	401
+Kaci Hickox	402
+Revolutionary People's Liberation Party–Front	403
+Jean Chrétien	404
+Toba	405
+Tuvalu	406
+Food, Water, and Disaster Relief	407
+Shah Mehmood Qureshi	408
+New Azerbaijan Party	409
+Peru	410
+Daniel Chitoiu	411
+Botswana	412
+Radoslaw Sikorski	413
+Civil Guard	414
+Japan	415
+Nestor Kirchner	416
+Lateef Fagbemi	417
+Mara Salvatrucha	418
+John Ging	419
+Donald Etiebet	420
+Davit Tonoyan	421
+Abdelilah Benkirane	422
+Zekerijah Osmic	423
+Ashok Kumar	424
+Tamerlan Tsarnaev	425
+New Flemish Alliance	426
+Word of Life Bible Church	427
+Associated Press	428
+Naval Base	429
+Gholamali Haddad Adel	430
+Gideon Gono	431
+China Airlines	432
+Sadiq al-Mahdi	433
+Liu Xiaobo	434
+Mevlut Cavusoglu	435
+Taukelina Finikaso	436
+Economist	437
+Presidential Aide	438
+Arvydas Pocius	439
+Toomas Hendrik Ilves	440
+Peter Szijjarto	441
+Frank Bainimarama	442
+Ante Kotromanović	443
+Mike Pence	444
+Serigne Mbaye Thiam	445
+Iceland	446
+David Choquehuanca	447
+David Nabarro	448
+United Kingdom	449
+Aleksandre Chikaidze	450
+Yannis Stournaras	451
+Party of Free Life of Kurdistan	452
+Socialist Democratic Party	453
+Meira Kumar	454
+Eshaq Jahangiri	455
+Tyler Technologies	456
+Australia	457
+Helsingin Sanomat	458
+Ibrahim Shehu Shema	459
+Iraq	460
+National Union for the Progress of Romania	461
+Millennium Challenge Corporation	462
+High Ranking Military Personnel	463
+Basile Ikouebe	464
+Troy Buswell	465
+Vilnius University	466
+Pinarayi Vijayan	467
+Omar Suleiman	468
+Secretariat of Foreign Affairs	469
+Russia	470
+Imedi TV	471
+Aladdin Boroujerdi	472
+Engineer	473
+Democratic Union of Hungarians in Romania	474
+Malawi Congress Party	475
+Aung Min	476
+Gas Authority of India	477
+Moldova	478
+Jatuporn Prompan	479
+Novartis	480
+Tunisia	481
+Chaudhry Nisar Ali Khan	482
+Ricardo Alarcón de Quesada	483
+Guangxi Zhuang	484
+Military Ruler	485
+Le Luong Minh	486
+Gonzalo Sanchez de Lozada	487
+J.P. Sharma	488
+Melissa Parke	489
+Greece	490
+Panhellenic Socialist Movement	491
+Nepal	492
+Mohamed Ibn Chambas	493
+Banque du Liban	494
+Omar Abdullah	495
+Air Force	496
+Yulia Tymoshenko	497
+Revolutionary Socialist Party	498
+Kenya	499
+Andrej Kiska	500
+Argentina	501
+Trust Bank	502
+Obert Mpofu	503
+Mauritania	504
+Algeria	505
+Muslim Cleric	506
+Izz ad-Din al-Qassam Brigades	507
+Gabon	508
+Unity Party	509
+Zawahiri	510
+Gennady Andreyevich Zyuganov	511
+Mbhazima Samuel Shilowa	512
+Sérgio Vieira de Mello	513
+Trinidad and Tobago	514
+Mahamadou Issoufou	515
+Sarath Fonseka	516
+Vesna Pusić	517
+Council of States	518
+Sarah Hanson-Young	519
+Episcopal	520
+Syed Ashraful Islam	521
+Pierre Nkurunziza	522
+Benjamin Netanyahu	523
+Willem-Alexander	524
+Ambrose Mammadi	525
+Nur Hossain	526
+Taiwo Olatubosun	527
+Naoki Inose	528
+Morgan Tsvangirai	529
+International Rescue Committee	530
+Northern Ireland	531
+Canada	532
+As'ad Mustafa	533
+Mexican Army	534
+Daniel Abugattás	535
+Roberto Azevedo	536
+Yakubu Gowon	537
+Eduardo Montealegre	538
+Mwai Kibaki	539
+Wael Abdul Latif	540
+Zacharie Myboto	541
+Chimaroke Nnamani	542
+Javier Gonzalez Fraga	543
+James P. McGovern	544
+Tom Frieden	545
+Simon Wiesenthal Center	546
+George Yeo	547
+Chimed Saikhanbileg	548
+Mala Bakhtiyar	549
+Eric Garner	550
+Presidential Majority	551
+Ishratul Ebad	552
+National Restoration Party	553
+Malik Agar	554
+Ruben Dario Alzate	555
+National Health and Family Planning Commission	556
+Kakwa	557
+Georgian Armed Forces	558
+Grupo Clarín	559
+The Voice	560
+Council of Deputies	561
+Dimitris Kourkoulas	562
+New Way Movement	563
+Yeganeh Salehi	564
+Cesar Gaviria Trujillo	565
+Galdino Mellado Cruz	566
+Kamalesh Sharma	567
+Joint Chiefs of Staff	568
+Theuns Botha	569
+Stephen Williams	570
+Nigeria	571
+Adams Oshiomhole	572
+Clover Moore	573
+Rafael Correa	574
+Ian Macdonald	575
+Gustavo Posse	576
+Algirdas Butkevičius	577
+Tyrant	578
+Bradesco	579
+Medha Patkar	580
+Robert Kocharyan	581
+Yehuda Glick	582
+Esmael Mangudadatu	583
+Philippines	584
+Bala Garba-Jahumpa	585
+Fidesz	586
+Juan Carlos Mendoza	587
+Jakrapob Penkair	588
+Preacher	589
+Hussein Defallah Al-Awadi	590
+DPWH	591
+Antony Harold Curties "Tony" Windsor	592
+Ahmad Zahid Hamidi	593
+Islamic Rebel	594
+Atkins	595
+Lung Ying-tai	596
+Al-Azhar University	597
+Angola	598
+Carolyn Rodrigues	599
+Kamaladdin Heydarov	600
+Andrea Orlando	601
+Ahmad Khalaf al-Dulaimi	602
+Boediono	603
+David Yau-Yau	604
+Senegal	605
+French Communist Party	606
+Nipat Thonglek	607
+Juan Carlos I	608
+Tourist Board	609
+Campbell Newman	610
+Zafar Ali Shah	611
+Owen Ellington	612
+Asma Jahangir	613
+Chen Deming	614
+Fernando Henrique Cardoso	615
+Communist Partysri Lanka	616
+Randeep Surjewala	617
+National Economic Council	618
+Exim Bank	619
+Lee Rigby	620
+Defector	621
+Derek Andre Hanekom	622
+Stephen Davis	623
+Ziad al-Karbouly	624
+Susana Martinez	625
+Agus Dwikarna	626
+Justice Department/Ministery	627
+Progressive Movement	628
+Chris Patten	629
+Miguel Macedo	630
+Presidential Press Service	631
+Qatar	632
+William J. Henderson	633
+Viktor Pshonka	634
+Kayode Fayemi	635
+Monastery	636
+Aliyu Mohammed Gusau	637
+Martine Ouellet	638
+Government Affiliated Bank	639
+Aun Porn Moniroth	640
+French Armed Forces	641
+Tea Tsulukiani	642
+Shkelqim Cani	643
+Sawarmi Khaled Saad	644
+Willies Mchunu	645
+Global Kids Inc	646
+Sani Abacha	647
+Paulo Antonio Skaf	648
+Food and Agriculture Organization	649
+Fedor Lukyanov	650
+Eugen Carpov	651
+Mohamed Samir	652
+Park Won-soon	653
+Protester	654
+Militant	655
+Hedayat Amin Arsala	656
+John Sopko	657
+Limpopo Police	658
+Khadija Ismayilova	659
+José David Cabello	660
+Milliyet	661
+Juhan Parts	662
+Julie Bishop	663
+Kema Chikwe	664
+Ombudsman	665
+Royal Court	666
+Santhal Tribe	667
+Janis Bordans	668
+Caroline Kennedy	669
+Organization of African Unity	670
+Christopher Mutsvangwa	671
+Bukola Saraki	672
+High Commission	673
+Mambury Njie	674
+Pablo Escobar	675
+Jaish-e-Mohammad	676
+Nicholas "Nick" Xenophon	677
+Lionel Jospin	678
+Malta	679
+Pasuya Yao	680
+Joseph Sinde Warioba	681
+Homeland Union – Lithuanian Christian Democrats	682
+Hau Lung-pin	683
+Antonio Guerrero Rodríguez	684
+The Sunday Times	685
+Kabul University	686
+District Commissioner	687
+Benedict XVI	688
+Sergio Massa	689
+South Korea	690
+Bratislav Gasic	691
+Iraqi Islamic Party	692
+Refugee	693
+Salman Khurshid	694
+Shivraj Singh Chouhan	695
+Ravina Shamdasani	696
+Special Court	697
+Axel Kicillof	698
+Mohamed al-Dairi	699
+Mgwagwa Gamedze	700
+Jide Awe	701
+Samiu Kuita Vaipulu	702
+Chevron	703
+Phongthep Thepkanjana	704
+Pope Tawadros II	705
+Paraguayan People's Army	706
+Sikh	707
+Ayo Adebanjo	708
+Tim Cook	709
+Tomislav Nikolić	710
+Zinaida Zlatanova	711
+Liberia	712
+Satpal Maharaj	713
+Rashid Temrezov	714
+Sidiki Kaba	715
+Uong Chu Luu	716
+Mohamed Osman Jawari	717
+Sheikh Salem Sabah Al-Salem Al-Sabah	718
+Marta Lucía Ramírez	719
+Wan Azizah	720
+Shaikh Ibrahim  Al Khalifa	721
+Rapid Action Battalion	722
+Civic Party	723
+Kem Sokha	724
+Adilbek Dzhaksybekov	725
+Rashid Derbas	726
+Yu Zhengsheng	727
+International Energy Agency	728
+Antigua and Barbuda	729
+Afghan National Army	730
+Álvaro García Hurtado	731
+Prajin Jantong	732
+Moulay Hafid Elalamy	733
+Milorad Pupovac	734
+Seoul High Court	735
+AB Lithuanian Gas	736
+Helmut Kohl	737
+Leopoldo Dominico Petilla	738
+Manuel Nunes Júnior	739
+Incheon District Court	740
+National Resistance Movement	741
+Kashmir Singh	742
+Liu Yandong	743
+Holy See (Vatican City State	744
+Separatist Militant	745
+Men	746
+Yevgeny Maksimovich Primakov	747
+Tatjana Zdanoka	748
+Song Kwang-ho	749
+Abdoulaye Wade	750
+Thomas Dandois	751
+Police	752
+Festus Keyamo	753
+C.S. Singh	754
+USS Pinckney	755
+Manto Tshabalala-Msimang	756
+Alexei Pushkov	757
+Straits Exchange Foundation	758
+Administrative Department of Security	759
+George Krol	760
+Edwin Clark	761
+Nadine Heredia	762
+Davit Usupashvili	763
+Yogendra Yadav	764
+Bakir Izetbegović	765
+Jaques Wagner	766
+Ministry of Arts and Culture	767
+North America	768
+Abdoulaye Bathily	769
+Jack Dempsey	770
+Baron Waqa	771
+Santos Edelmar Lopez	772
+Imran Khan	773
+Pavel Zeman	774
+Left Party	775
+Volvo	776
+Peter Ryan	777
+Ângelo de Barros Veiga Tavares	778
+Ahmed Abu Khatallah	779
+Abu Bakr al-Baghdadi	780
+Robert McClelland	781
+Mob	782
+Vitali Klitschko	783
+Mohammad Pakpur	784
+Armed Opposition	785
+Abdirahman Mohamed Farole	786
+Al Qaeda	787
+Higher Colleges of Technology	788
+Petroleum of Venezuela	789
+Healthcare Facility	790
+Slavko Linic	791
+Consultative Assembly of Oman	792
+State Security Investigations Service	793
+Martha Karua	794
+Shahin Mustafayev	795
+Gambia	796
+Ministry of Commerce	797
+Daniel Constantin	798
+Mogens Lykketoft	799
+Interim Leader	800
+Alpha Group Commandos	801
+Mogoeng Thomas Reetsang Mogoeng	802
+Enrico Letta	803
+David Hale	804
+Cameron Slater	805
+Education Official	806
+Women	807
+Social Worker	808
+Alleged Militants	809
+Panfilio Lacson	810
+Germany	811
+Ministry of Public Security	812
+Saber Hossain Chowdhury	813
+Herve Ladsous	814
+Uganda People's Defence Force	815
+Udjani	816
+Colorado Party	817
+Ethiopia	818
+Bank	819
+Jordan	820
+Democratic Force	821
+Saira Afzal Tarar	822
+Kuan Chung-ming	823
+Fiji	824
+Abdou Labo	825
+Movement of Society for Peace	826
+Paul LePage	827
+Majid bin Muhammad al Majid	828
+Ram Gopal Yadav	829
+Umar Farooq	830
+Michel Sapin	831
+Grace Foster	832
+Great Council of Chiefs	833
+Cyprus	834
+Cairo University	835
+Latvia	836
+Joselito Atienza	837
+Sarfaraz Bugti	838
+Transportation Ministry/Department	839
+Ulster Unionist Party	840
+Deputy Inspector General Singh	841
+Adam Kighoma Malima	842
+Ivan Gasparovic	843
+Marou Amadou	844
+Malala Yousafzai	845
+Ante Starcevic	846
+Vladimir Voronin	847
+Vladimir Dzhabarov	848
+Christian	849
+Revolutionary Armed Forces of Colombia	850
+AvtoVAZ	851
+William ole Ntimama	852
+Kahinda Otafiire	853
+Sammy Al-Mansoor	854
+National Agency for Food and Drug Administration and Control	855
+Jonathan Powell	856
+Ramon Paje	857
+Rebel Group	858
+Qadri Jamil	859
+Kapil Sibal	860
+Aircraft Carrier	861
+Numan Kurtulmus	862
+Supreme Administrative Court of Lithuania	863
+Miro Cerar	864
+Pratibha Patil	865
+Gen Tanasak Patimapragorn	866
+Moussa Traoré	867
+Robert Walker	868
+Assembly of the Union	869
+Ahmed Zaki	870
+Mohammad Mohaqiq	871
+Persian Gulf	872
+Katarzyna Pelczynska-Nalecz	873
+Rafael Ramírez	874
+Gilles Jaron	875
+Libya TV	876
+Najam Sethi	877
+Tzipi Livni	878
+Zeng Peiyan	879
+Telesur	880
+Refat Chubarov	881
+Jobbik	882
+Lower House of Parliament	883
+Green Party	884
+Anthony Foxx	885
+Yemi Osinbajo	886
+Liu Jianchao	887
+Voice of Jihad	888
+Dominican Republic	889
+Zhang Yesui	890
+China National Petroleum Corporation	891
+Organisation of Islamic Cooperation	892
+Eduardo Brandão de Azeredo	893
+Crime Intelligence	894
+United Self-Defense Forces of Colombia	895
+United States Senate	896
+Office of the Attorney General	897
+Pierre Mabiala	898
+Daniel Ortega	899
+Akinori Eto	900
+Brunei	901
+John P. Wilson	902
+Jubo League	903
+Election Commission	904
+Abdeslam Bouchouareb	905
+Provincial Officials	906
+Uri Ariel	907
+Ramezan Sharif	908
+Marziyeh Afkham	909
+Hezbollah	910
+Mohamed al-Beltagy	911
+Aborigine	912
+Labor and Employment Ministry	913
+Grenada	914
+South African National Defence Force	915
+Federal Bank	916
+Public Courts	917
+Reza Najafi	918
+Samura Kamara	919
+Tourist	920
+Balwinder Singh	921
+Jesse Chacón	922
+Attacker	923
+Bureaucrat	924
+Vincent C. Siew	925
+Suleiman Franjieh	926
+Keiji Furuya	927
+University of South Africa	928
+Aldo Dell'Ariccia	929
+John Momis	930
+Sauli Niinistö	931
+Chavanond Intarakomalyasut	932
+Armed Services Deserter	933
+Edmond Mulet	934
+Military Advisor	935
+Party of Regions	936
+Slovene Christian Democrats	937
+Civil Aviation Department	938
+Passenger Jet	939
+Grand Duke Henri	940
+Sidwaya	941
+Darrell Issa	942
+Asim Bajwa	943
+Klaus Schwab	944
+Jean-Michel Baylet	945
+Presidential Candidate	946
+Hugo Swire	947
+Toru Hashimoto	948
+Papua New Guinea	949
+Guyana	950
+Falah Mustafa	951
+Le Jour	952
+Army Chief of Staff	953
+Laurent Kabila	954
+Andrew Robb	955
+Hamed Bakayoko	956
+Nabil Abu-Rudaynah	957
+Mohammed Qasim Fahim	958
+Labor Department	959
+Mohammed Mubarak Muntaka	960
+Babbar Khalsa	961
+Dora Akunyili	962
+Shakib Qortbawi	963
+Sicily	964
+Gagik Tsarukyan	965
+Oil Tanker	966
+Royal Air Force	967
+Simonetta Sommaruga	968
+Media	969
+Joe Natuman	970
+National Front Malaysia	971
+Sergio Jaramillo	972
+Alexander Vershbow	973
+Basdeo Panday	974
+Alberto Espina	975
+Ric McIver	976
+Augusts Brigmanis	977
+Commonwealth Parliamentary Association	978
+Arif Alvi	979
+Ivari Padar	980
+Chongwadai	981
+Adama Dieng	982
+French Air Force	983
+Eighth U.S. Army	984
+Adebisi Akande	985
+Kalenjin	986
+Zgharta	987
+Patrick Dewael	988
+Dora Siliya	989
+Ronnie Mamoepa	990
+Dusan Mramor	991
+Vladimir Padrino Lopez	992
+Gary Quinlan	993
+Actor	994
+Juventud Rebelde	995
+Union of Right Forces	996
+Egon Krenz	997
+Julio Cobos	998
+Caitlin Hayden	999
+Bhim Singh	1000
+Guy Ryder	1001
+David N. Dinkins	1002
+Dino Melaye	1003
+Teo Chee Hean	1004
+Qatar Investment Authority	1005
+Azam Khan	1006
+Corneliu Vadim Tudor	1007
+Vitalie Marinuta	1008
+Saqr Saqr	1009
+Meng Jianzhu	1010
+Pham Binh Minh	1011
+Ziyad Abu-Ayn	1012
+Gordan Jandroković	1013
+American Near East Refugee Aid	1014
+Islamic Republic of Iran Broadcasting	1015
+Aminata Touré	1016
+Lubomír Jahnátek	1017
+The Daily Telegraph	1018
+Georgian Orthodox Church	1019
+Sadako Ogata	1020
+Qi Jianguo	1021
+Ahmad Majdalani	1022
+Canadian Security Intelligence Service	1023
+Brazil	1024
+Pope Francis	1025
+Enough Project	1026
+Separatist	1027
+India	1028
+Education	1029
+Ishaq Dar	1030
+Uruguay	1031
+Borys Kolesnikov	1032
+Southeast Asia	1033
+Pierre Korkie	1034
+Chen Chao-min	1035
+Defense Attorney	1036
+Taufa'ahau Tupou IV	1037
+Evangelos Meimarakis	1038
+Human Rights Activist	1039
+Future Movement	1040
+Rustam Azimov	1041
+Natalya Timakova	1042
+Organization of Petroleum Exporting Countries	1043
+Sultan Ahmed bin Sulayem	1044
+Barisan Revolusi Nasional	1045
+Interim Government	1046
+Gerardo Hernández	1047
+Cyprian Awiti	1048
+Knights Templar Cartel	1049
+Richard Nixon	1050
+News Editor	1051
+Issa Qaraqe	1052
+Coup D'etat Leader	1053
+First Command of the Capital	1054
+Danjuma Goje	1055
+U.S. Army Pacific	1056
+Martin Belaunde Lossio	1057
+Susana Villaran	1058
+Secretariat for the Prevention of Drug Abuse and Drug Trafficking	1059
+Robert McDonald	1060
+Abdul Kalam	1061
+Zanzibar	1062
+Rwanda National Police	1063
+Trade Union Congress	1064
+Domingos Simões Pereira	1065
+Peter Lerner	1066
+Eloy Inos	1067
+Joseph Stalin	1068
+Abdoulaye Seck	1069
+Drug Enforcement	1070
+Chakma	1071
+Niue	1072
+National Congress	1073
+Zimbabwe Exiles Forum	1074
+Western Sahara	1075
+Pedro Flores	1076
+Lal Singh	1077
+Barnaby Joyce	1078
+Surakiart Sathirathai	1079
+Gurbanguly Berdymukhammedov	1080
+Paris Club	1081
+Nathif Jama	1082
+Moana Carcasses Kalosil	1083
+Mustafa Abu Shagur	1084
+David Granger	1085
+Maithripala Sirisena	1086
+Hindu	1087
+Mitch McConnell	1088
+Sri Lanka United National Party	1089
+Sezgin Tanrıkulu	1090
+Norfolk Island	1091
+Kuomintang	1092
+Iran	1093
+Rosa Pacavira	1094
+Steve Vukhile Tshwete	1095
+Thongsing Thammavong	1096
+Yemeni Congregation for Reform	1097
+Edwin Lacierda	1098
+Bashishtha Narayan Singh	1099
+Austria Press Agency	1100
+Emrullah Isler	1101
+Tuareg people	1102
+Peter Phillips	1103
+Justice and Development Party	1104
+Sayed Fazlollah Wahidi	1105
+Kashmiri Separatist	1106
+Ali Ndume	1107
+Guerrilla	1108
+Alex Badeh	1109
+Hyon Yong Chol	1110
+J. Tytler	1111
+Lucia Zitnanská	1112
+Moussa Ibrahim	1113
+Luis G. León Rodríguez	1114
+Prachanda	1115
+Egypt	1116
+Mario Monti	1117
+Mauricio Domogan	1118
+Francisco de Narvaez Steuer	1119
+Armenpress	1120
+State Oil Company of Azerbaijan Republic	1121
+Obed Bapela	1122
+Ruling Coalition	1123
+National People's Party	1124
+Republican Party	1125
+Sankei	1126
+Dalbir Singh	1127
+Yuriy Lutsenko	1128
+Nestor Shufrych	1129
+Nadezhda Tolokonnikova	1130
+Kimani Wamatangi	1131
+Justice and Equality Movement	1132
+Amir Syamsuddin	1133
+Meenakshi Lekhi	1134
+Pokot	1135
+Hung Hsiu-chu	1136
+Mohammad Reza Naqdi	1137
+Prime Minister Chaudhry	1138
+Independent Corrupt Practices Commission	1139
+José Guillermo Rodríguez	1140
+Macao	1141
+Tsakhiagiyn Elbegdorj	1142
+Bam Dev Gautam	1143
+Dmitry Mezentsev	1144
+Liberal Party	1145
+Lord's Resistance Army	1146
+Chuck Strahl	1147
+Abu Bakr Abdullah al-Qirbi	1148
+Robert Pickersgill	1149
+Elyor Ganiyev	1150
+Amason Kingi	1151
+Argentine Industrial Union	1152
+Giorgio Napolitano	1153
+American Popular Revolutionary Alliance	1154
+Afghanistan	1155
+UN Security Council	1156
+Kosovo	1157
+Mladen Bajić	1158
+Ilias Kasidiaris	1159
+Gough Whitlam	1160
+Zimbabwe Union of Journalists	1161
+Jeh Johnson	1162
+Aziz Akhennouch	1163
+Sudan	1164
+John Boehner	1165
+Supreme Council	1166
+Elmar Brok	1167
+Free State High Court	1168
+Guy Scott	1169
+Sharad Pawar	1170
+Peace, Unity, and Development Party	1171
+Darbara Singh	1172
+Sam Nda-Isaiah	1173
+Mallam Isa Yuguda	1174
+Radio Ndeke Luka	1175
+Viktor Orban	1176
+Constitutional Court of Ukraine	1177
+ANS Group of Companies	1178
+Kgalema Petrus Motlanthe	1179
+Minni Minnawi	1180
+Ayman al-Zawahri	1181
+Muammar al-Qaddafi	1182
+Nicos Anastasiades	1183
+Al Wafa	1184
+Opposition Force	1185
+Convention People's Party	1186
+Mark Lyall Grant	1187
+Daily Trust	1188
+Muslim Brotherhood	1189
+Pedro Manuel Mamede Passos Coelho	1190
+Kocheril Narayanan	1191
+Zakariya Ismail Ahmed Hersi	1192
+Communist Party of Bohemia and Moravia	1193
+Solomon Passy	1194
+Norman Quijano	1195
+Ruth Davidson	1196
+Igor Ivanovich Shuvalov	1197
+Sultan bin Saeed Al Mansouri	1198
+Raja Zafarul Haq	1199
+Tatarstan	1200
+Hassan Abshir Farah	1201
+Lamberto Dini	1202
+Planning Commission	1203
+Francis Korkpor	1204
+Antonio Saca	1205
+Embraer	1206
+Morteza Sarmadi	1207
+Hanan Ashrawi	1208
+Heng Swee Keat	1209
+Saada Mkuya Salum	1210
+Preneet Kaur	1211
+Nagorno-Karabakh Republic	1212
+Central Reserve Police Force	1213
+National Iranian Petrochemical Company	1214
+Uhuru	1215
+Ansar al-Sharia in Libya	1216
+Anrijs Matiss	1217
+Ali Ahmad Jalili	1218
+Nangolo Mbumba	1219
+Akali Leader	1220
+Tagammu	1221
+Michael Fahy	1222
+Andrius Krivas	1223
+John Brumby	1224
+Sigfrido Pared Pérez	1225
+Rashid Rehman	1226
+Ethnos	1227
+Oxford University	1228
+National United Front for Democracy Against Dictatorship	1229
+Chechnya	1230
+William Schabas	1231
+Richard Cheney	1232
+House Armed Services Committee	1233
+Cemex	1234
+Monaco	1235
+Lulzim Basha	1236
+Anson Chan	1237
+United Left	1238
+Nauru	1239
+Virtue Party	1240
+Abdel Fattah Al-Sisi	1241
+Bulgarian National Radio	1242
+Carlos Kuschel Silva	1243
+Angel Aguirre Rivero	1244
+Mouloud Hamrouche	1245
+Representative to the United Nations	1246
+Liu Han	1247
+Audu Innocent Ogbeh	1248
+Ministry of Tourism	1249
+Raymond Tshibanda	1250
+Børge Brende	1251
+Student	1252
+Sylvia Masebo	1253
+Turkmenistan	1254
+Zeid Ra'ad Al Hussein	1255
+Nabih Berri	1256
+Space Agency	1257
+Jacek Rostowski	1258
+Social Democratic Party	1259
+Environmentalist	1260
+Ali Tayyebnia	1261
+Umaru Musa Yar'Adua	1262
+National Directorate of Security	1263
+Eslam Reza'i	1264
+Antonis Samaras	1265
+Waiter	1266
+Rob Wainwright	1267
+Tharit Pengdit	1268
+Garo National Liberation Army	1269
+Ivan Fuksa	1270
+Adrian Edwards	1271
+Rajeshwara Rao	1272
+Erol Incedal	1273
+Jitan Ram Manjhi	1274
+Sajjan Kumar	1275
+Reserve Bank of Malawi	1276
+Singapore	1277
+Harsimrat Kaur Badal	1278
+Japan Self-Defense Forces	1279
+Clara López Obregón	1280
+Mutembo Nchito	1281
+Bernadette Meehan	1282
+Joseph Ole Nkaissery	1283
+Radio Mitre	1284
+Nelson Cosme	1285
+Vanuatu	1286
+Viktor Chirkov	1287
+Pat McCrory	1288
+Abdullah Abdullah	1289
+Dominica	1290
+Len Brown	1291
+Staffan de Mistura	1292
+State Security Service	1293
+Alicia Castro	1294
+Philip Goldberg	1295
+John Paul II	1296
+Ghana	1297
+Vlastimil Picek	1298
+Liberals	1299
+Sergey Zheleznyak	1300
+Hamad bin Ali al-Attiyah	1301
+Sean Edwards	1302
+Delyan Peevski	1303
+Naglaa el-Ahwani	1304
+Prabowo Subianto	1305
+City Manager	1306
+Joseph Kabila	1307
+Sebastian Kurz	1308
+Kristiina Ojuland	1309
+National Iranian Tanker Company	1310
+Tarcisio Bertone	1311
+Gazprom	1312
+Parliament of South Africa	1313
+Public Service Ministry/Department	1314
+Sue-Ellen Kovack	1315
+Baljinder Singh	1316
+Massoud Barzani	1317
+Malcolm Bligh Turnbull	1318
+Daniel Barrera Barrera	1319
+Cho Hyun-ah	1320
+Airman	1321
+Anders Borg	1322
+Lameck Mangani	1323
+Conservative Party	1324
+Don Brash	1325
+Rosoboronexport	1326
+Ed Royce	1327
+Alberto Fernández	1328
+Umayya Touqan	1329
+African Commission on Human and People's Rights	1330
+Sherrod Brown	1331
+Luis de Almagro	1332
+Peter Reith	1333
+Ministry/Department of Livestock	1334
+Murtala Nyako	1335
+Alan Peter Cayetano	1336
+Hamas	1337
+Amina Mohamed	1338
+Liang Yang	1339
+National Umma Party	1340
+Ali Jannati	1341
+Steve Pearce	1342
+National Liberation Front	1343
+Tajikistan	1344
+Transport	1345
+Venezuela	1346
+Pilgrim	1347
+Cook Islands	1348
+Norway	1349
+Vassilis Kikilias	1350
+Wang Wen	1351
+Pablo Mieres	1352
+Raheel Sharif	1353
+Kim Jong-Un	1354
+Ogbeni Rauf Aregbesola	1355
+Kaushik Patel	1356
+Vanguard	1357
+Jorge Enrique Rodríguez	1358
+Miroslav Kalousek	1359
+Carlos Saul Menem	1360
+Job Amupanda	1361
+Monie Ralph Captan	1362
+Niger Delta Liberation Force	1363
+Bruce George	1364
+Isatou Njie-Saidy	1365
+Civil Aviation Authority	1366
+Appeals Court	1367
+Saad Maan	1368
+Meglena Kuneva	1369
+Eduard Shevardnadze	1370
+Abdul Karim Tunda	1371
+Riaz Ahmed	1372
+Fijilive	1373
+Joseph Kony	1374
+Akilisi Pohiva	1375
+Croatia	1376
+Huang Ching-tai	1377
+Nigerian Communication Satellite	1378
+American Refugee Committee	1379
+Court Judge	1380
+Isaac Kiprono Ruto	1381
+Giorgi Kvirikashvili	1382
+Rashtriya Janata Dal	1383
+Chief Secretary Chandra	1384
+Jusuf Kalla	1385
+Jerry Brown	1386
+Democratic Forces for the Liberation of Rwanda	1387
+New Democracy	1388
+Richard Ragan	1389
+Chen Yi-chen	1390
+Central Bank of Russia	1391
+Guillaume	1392
+Leymah Roberta Gbowee	1393
+Lin Chia-lung	1394
+Wendy Sherman	1395
+Fereydoon Abbasi	1396
+National Socialist Council of Nagaland	1397
+Information Ministry	1398
+Education Ministry	1399
+Hell's Angels	1400
+Harold Wilson	1401
+International	1402
+Cheng Yonghua	1403
+Inquirer	1404
+University of Nairobi	1405
+Civic United Front	1406
+Somen Mitra	1407
+Sovan Chatterjee	1408
+Abdullatif Al-Zayani	1409
+Congress Party	1410
+Johannesburg High Court	1411
+French Polynesia	1412
+Kouadio Konan Bertin	1413
+Extremist	1414
+Armed Rebel	1415
+Royal Thai Navy	1416
+Leslie Caldwell	1417
+Ilkka Kanerva	1418
+Sar Kheng	1419
+Seimas of the Lithuanian Republic	1420
+Viktor Yushchenko	1421
+Opposition Supporter	1422
+Mohamed Ould Boilil	1423
+Hisham Zaazou	1424
+José Dirceu de Oliveira e Silva	1425
+Jan Kohout	1426
+Sami Hafez Anan	1427
+Mohammad Ali Jafari	1428
+Datuk Mah Siew Keong	1429
+Olisa Agbakoba	1430
+Yamfwa Mukanga	1431
+Helena Valkova	1432
+Rudy Giuliani	1433
+Costa Rica	1434
+Kathleen Wynne	1435
+Shen Jong-chin	1436
+Augustine Alegeh	1437
+Dmitry Olegovich Rogozin	1438
+Mohammad Nahavandian	1439
+Alberto Fujimori	1440
+John Walker	1441
+Geert Wilders	1442
+Sylvain Gaudreault	1443
+Jaroslaw Kaczynski	1444
+Rostec	1445
+Austria	1446
+Simos Kedikoglou	1447
+Paul Kagame	1448
+Hashid Tribe	1449
+Jamaica	1450
+Manuel Garrido	1451
+Attila Korodi	1452
+Behrouz Kamalvandi	1453
+Edouard Balladur	1454
+John Brennan	1455
+Ivaylo Moskovski	1456
+Company - Owner or Operator	1457
+Alexander Grushko	1458
+Ahmed Ould Teguedi	1459
+Vladimir Chizhov	1460
+Justin Koumba	1461
+Tripura National Liberation Front	1462
+Devlet Bahçeli	1463
+Frank Mba	1464
+R.P. Singh	1465
+Lamar Alexander	1466
+Yuriy Stets	1467
+Tjahjo Kumolo	1468
+Wang Yang	1469
+Miroslav Lajcak	1470
+Uladi Mussa	1471
+Fishermen	1472
+Democratic Party	1473
+People First Party Korea	1474
+Kit Siang	1475
+Commando	1476
+Magyar Nemzet	1477
+Abdiweli Shaykh Ahmad	1478
+Romania	1479
+Juan del Granado	1480
+Javier Solana	1481
+Web Site	1482
+Amar Ghoul	1483
+Hanno Pevkur	1484
+Industrial / Textiles / Mining Ministry	1485
+People's Democratic Party	1486
+Settler	1487
+Dharamvira Gandhi	1488
+Drug Gang	1489
+Tonga	1490
+National Hurricane Center	1491
+Hassan Fadlallah	1492
+Elias Murr	1493
+Moazzam Begg	1494
+Rebecca Harms	1495
+Jack Lang	1496
+Fernando de la Rúa	1497
+Zaini Abdullah	1498
+Lao Front for National Construction	1499
+Central Bank of the Islamic Republic of Iran	1500
+National Patriotic Front of Liberia	1501
+Alexander Vasilyevich Bortnikov	1502
+David Crisafulli	1503
+Frederick Fasehun	1504
+Switzerland	1505
+Halkbank	1506
+Ibrahim Saminu Turaki	1507
+Abu Azmi	1508
+Aldo Giordano	1509
+Jawaharlal Nehru	1510
+Paraguay	1511
+John Baptist Odama	1512
+Kenneth Clarke	1513
+Laura Boldrini	1514
+Al Arabiya	1515
+Volodymyr Konstantynov	1516
+Civic Coalition	1517
+Slovenian Army	1518
+Thembelani Waltermade Nxesi	1519
+Angel Luis D'Elia	1520
+Intelligence Officer	1521
+Rosalinda Baldoz	1522
+Kim Hwang Sik	1523
+Chris Alexander	1524
+Lulama Marytheresa Xingwana	1525
+Mirhoseyn Musavi	1526
+Abu Misry Mama	1527
+Ministry of Health	1528
+José Aponte	1529
+Manik Sarkar	1530
+James Ongwae	1531
+Four-Coalition	1532
+Bill Richardson	1533
+Libya	1534
+Central Bank of Libya	1535
+La Francophonie	1536
+Mainland Affairs Council	1537
+José Miguel Vivanco	1538
+Raj Thackeray	1539
+David Shear	1540
+National Transitional Council	1541
+Jacob J. Lew	1542
+Kulwant Singh	1543
+Aceh	1544
+Olagunsoye Oyinlola	1545
+Shanghai Cooperation Organization	1546
+France	1547
+Jay Rockefeller	1548
+Military Police	1549
+Brownie Samukai	1550
+Chamber of Industry and Commerce	1551
+Workers' Party	1552
+Russian News Channel Vesti	1553
+Arjun Singh	1554
+Petro Symonenko	1555
+Kozo Watanabe	1556
+Ali Awad Asiri	1557
+Environment Agency	1558
+Makhotso Magdeline Sotyu	1559
+Eritrea	1560
+John Dramani Mahama	1561
+Andrei Klepach	1562
+Okoth Obado	1563
+Femi Falana	1564
+Okada Katsuya	1565
+Mitsutoki Shigeta	1566
+Rubén Saavedra	1567
+Sid Ahmed Ghozali	1568
+Constitution Party	1569
+National Intelligence Agency	1570
+Augustin Tine	1571
+Süleyman Demirel	1572
+Eustarckio Kazonga	1573
+National Police Service	1574
+Attorney General	1575
+S.S. Sandhu	1576
+Guillermo Moreno	1577
+Milo Djukanovic	1578
+Chang Song Taek	1579
+Kaduna State Police	1580
+Islamic Preacher	1581
+National Airline	1582
+Mohamed Lemine Ould Guig	1583
+Desiré Delano Bouterse	1584
+Inter-Services Intelligence	1585
+Musa Cerantonio	1586
+Branimir Glavas	1587
+Uighur	1588
+Pramod Mahajan	1589
+Harriet Harman	1590
+Eduardo Koloma	1591
+Stephen Hadley	1592
+Jonas Vytautas Žukas	1593
+Justicialist Party	1594
+Yoshitaka Shindo	1595
+Solidarity	1596
+South Sudan	1597
+U.S. Special Operations Command Central	1598
+Hynek Kmoníček	1599
+Kenya Airways	1600
+Heydar Aliyev	1601
+Independent Democratic Action	1602
+New Zealand	1603
+Iraqi Kurds	1604
+Fighter Bomber	1605
+Gilbert Bukenya	1606
+Agustín Rossi	1607
+Pakistan	1608
+Presidential Family	1609
+Sunday Times	1610
+Tony Tan Keng Yam	1611
+Jason C. Hu	1612
+City Mayor	1613
+Illegal Immigrant	1614
+Makis Voridis	1615
+Constitutional Court of South Africa	1616
+Juan Carlos Pinzon	1617
+The Cape Times	1618
+Abdol-Reza Mesri	1619
+Nigeria Labour Congress	1620
+Border Security Force	1621
+National Anti-Corruption Commission	1622
+Nicolai Wammen	1623
+Zuba	1624
+South West Africa People's Organization	1625
+Haiti	1626
+Noh Kwang-il	1627
+Jubril Martins-Kuye	1628
+Volen Siderov	1629
+Council of Representatives	1630
+National Party	1631
+Daniel Bruce Poneman	1632
+Central Military Commission	1633
+Sayed Abdullo Nuri	1634
+Slovakia	1635
+Mike O'Brien	1636
+Domestic Affairs	1637
+Buddhist	1638
+Ahmadu Giade	1639
+Aamir Khan	1640
+Seychelles	1641
+Representatives	1642
+Teesta Setalvad	1643
+Kuwait	1644
+Obaid Humaid Al Tayer	1645
+Abbot	1646
+Carlos Carrascosa	1647
+David Ben-Gurion	1648
+Tehseen Akhtar	1649
+Juan Carlos Eguren	1650
+Alfred Mutua	1651
+Pokhrel	1652
+Mahmoud Ahmadinejad	1653
+Evangelos Venizelos	1654
+Nigerian National Petroleum Corporation	1655
+Cui Tiankai	1656
+Royal Bank of Scotland	1657
+Ahmed Nejib Chebbi	1658
+Amit Kumar	1659
+Bothaina Kamel	1660
+Gordon Darcy Lilo	1661
+Abdirahman Ducaale Bayle	1662
+Barre Adan Shire Hiiraale	1663
+Narongchai Akrasanee	1664
+Graeme Wheeler	1665
+Ricardo Echegaray	1666
+10 Downing Street	1667
+Security Council of the Russian Federation	1668
+Administrative Body	1669
+Goh Chok Tong	1670
+José Miguel Ortiz	1671
+Heraldo Muñoz	1672
+Islamic State of Iraq and the Levant	1673
+World Organization Against Torture	1674
+Atef Tarawneh	1675
+Vítor Constâncio	1676
+Sir David Richards	1677
+Amin Makki Madani	1678
+Government	1679
+Ratan Tata	1680
+Janez Jansa	1681
+Abkhazia	1682
+Ayodeji Daramola	1683
+Andris Vilks	1684
+Aissata Tall Sall	1685
+Jean-Bertrand Aristide	1686
+People's	1687
+Dmitry Anatolyevich Medvedev	1688
+Prapun Naigowit	1689
+George Lillikas	1690
+Alexander Kadakin	1691
+Tunde Bakare	1692
+Jose de Lima Massano	1693
+Donatille Mukabalisa	1694
+Jagir Singh	1695
+Rogelio Singson	1696
+Royal Administration	1697
+Valens Munyabagisha	1698
+Shrien Dewani	1699
+China Development Bank	1700
+Aristovoulos Spiliotopoulos	1701
+Lien Chan	1702
+Ryutaro Hashimoto	1703
+Kenya Television Network	1704
+Government Commission	1705
+Sri Lanka	1706
+Azubuike Ihejirika	1707
+R.S. Naik	1708
+Fula people	1709
+Kim Yong Il	1710
+Supreme Electoral Court	1711
+Alan Wilson	1712
+General Auditing Commission	1713
+Dmitry Livanov	1714
+Dmytro Bulatov	1715
+Jigme Khesar Namgyal Wangchuk	1716
+Yoani Sánchez	1717
+José Miguel Insulza	1718
+Abbas Medlej	1719
+Ustadz Habier Malik	1720
+European Court of Auditors	1721
+Yen Ming	1722
+Thailand	1723
+Elio Di Rupo	1724
+Sidi Ould Cheikh Abdallahi	1725
+Joe Oliver	1726
+Steffen Seibert	1727
+Croatian People's Party – Liberal Democrats	1728
+Shabelle Media Network	1729
+Dmitriy Kiselev	1730
+Jason Kenney	1731
+ETA	1732
+Nigerian Television Authority	1733
+Jaber Mubarak Al-Sabah	1734
+ADF-NALU	1735
+Coalition of Opposition Parties	1736
+Hemant Soren	1737
+Anglican Communion News Service	1738
+Abdoulaye Diop	1739
+War Correspondent	1740
+Harminder Singh Rai	1741
+African Christian Democratic Party	1742
+Pierre Laurent	1743
+Carnegie Endowment for International Peace	1744
+Socrates Villegas	1745
+Bob Hawke	1746
+Semen Semenchenko	1747
+Wole Olanipekun	1748
+Sun Yuxi	1749
+Landless Workers' Movement	1750
+Retno Marsudi	1751
+Jack Dalrymple	1752
+Segolene Royal	1753
+James Selfe	1754
+Yves-Fran Francois Blanchet	1755
+Khalaf Abdul Samad	1756
+Godwin Emefiele	1757
+Pdea	1758
+Yair Lapid	1759
+AIDESEP	1760
+Separatist Leader	1761
+Kundy Pahiama	1762
+Liu Jieyi	1763
+Geo TV	1764
+Rashid Meredov	1765
+Liberian Coast Guard	1766
+Sanae Takaichi	1767
+Chad	1768
+Mohamed Merah	1769
+Terrorist Leader	1770
+Jirí Pospísil	1771
+Caribbean Airlines Limited	1772
+Adam Sultanovich Delimkhanov	1773
+Member of Parliament	1774
+Estonian Parliament	1775
+Shaukat Aziz	1776
+Chama Cha Uzalendo	1777
+Margaret Hodge	1778
+Qin Gang	1779
+Alexander Albertovich Veshnyakov	1780
+János Martonyi	1781
+Hezbe Wahdat	1782
+Armed Forces of Sao Tome and Principe	1783
+Caribbean Community	1784
+Ksenia Yudayeva	1785
+Mushahidullah Khan	1786
+Civic Group	1787
+Binyamin Ben-Eliezer	1788
+Marwan Charbel	1789
+A.K. Singh	1790
+Peter Humphrey	1791
+OMV	1792
+Ahmed bin Daghr	1793
+Aïchatou Mindaoudou Souleymane	1794
+Abdulrahman Kinana	1795
+Nikos Christodoulides	1796
+Khalid Khattak	1797
+Wang Anshun	1798
+China	1799
+Government Coalition	1800
+International Maritime Organization	1801
+Fotis Kouvelis	1802
+Airline	1803
+Kiev police	1804
+New Party	1805
+Tony Ehrenreich	1806
+Interfax	1807
+Aurelio Baladad	1808
+Elias Camsek Chin	1809
+Kober prison	1810
+Islamic	1811
+Pavlo Klimkin	1812
+Pakistan Tehreek-e-Insaf	1813
+Ali Abdullah Saleh	1814
+Epeli Nailatikau	1815
+Internal Security Operations Command	1816
+Ministry	1817
+Gabriel Namulambe	1818
+Ahmad Fatfat	1819
+Ahmad Mohamed Ibrahim	1820
+Mexico	1821
+Noppadon Pattama	1822
+Martin Indyk	1823
+Iraqi Communist Party	1824
+Holy See	1825
+Salvador Sánchez Cerén	1826
+Timor-Leste	1827
+Abu Dhabi Education Council	1828
+Abdelkader Taleb Oumar	1829
+Ivan Jakovčić	1830
+Jyrki Katainen	1831
+Sergei Karakayev	1832
+Amin Hassan Omer	1833
+Alireza Bigdeli	1834
+Shura Council	1835
+Marco Aurélio Garcia	1836
+Bhinderjit Singh	1837
+Kathy Gannon	1838
+Resistance Leader	1839
+Majid Takht Ravanchi	1840
+Serge Lazarevic	1841
+Ertharin Cousin	1842
+Virgin Atlantic Airways	1843
+Renmin University	1844
+Mehmood Khan Achakzai	1845
+National Unity Democratic Organisation	1846
+Gwangju District Court	1847
+Energy Department/Ministry	1848
+Anglican Communion	1849
+Veterans	1850
+Alan Johnson	1851
+Shamshad Akhtar	1852
+Tadesse Kassa	1853
+Wael al-Halki	1854
+Dinesh Sharma	1855
+Wang Gang	1856
+Mohamed Said Fofana	1857
+Royal Dutch Shell	1858
+William Lukuvi	1859
+Turkey	1860
+Fuad Masum	1861
+Yehude Simon	1862
+Abu Musab al-Zarqawi	1863
+Milan Chovanec	1864
+Arnold Rüütel	1865
+Democratic Union of Cameroon	1866
+Amir Hossain Amu	1867
+Northern Mariana Islands	1868
+Dzintars Rasnacs	1869
+Swaziland	1870
+Bala Abdulkadir Mohammed	1871
+Warren Truss	1872
+Gérard Larcher	1873
+Anabela Rodrigues	1874
+Olugbenga Ashiru	1875
+Hazrat Hossayn Mashreqiwal	1876
+Alliance Party	1877
+Dinesh Singh	1878
+Prayuth Chan-ocha	1879
+Nathalie Kosciusko-Morizet	1880
+Gina McCarthy	1881
+Amadou Toumani Touré	1882
+Li Hui	1883
+Kurdistan Islamic Union	1884
+Hugo Moyano	1885
+Ma Ying Jeou	1886
+Roberta Pinotti	1887
+François Rebsamen	1888
+Jute and Textiles	1889
+Malawi	1890
+Dzhokhar Tsarnaev	1891
+Mekong River Commission	1892
+Tesco	1893
+Nicaragua	1894
+Michael Noonan	1895
+National Action Party	1896
+Riek Machar	1897
+Simon Ostrovsky	1898
+Kuwait Chamber of Commerce and Industry	1899
+Bill Blair	1900
+Guatemala	1901
+Opposition Coalition	1902
+Al Qaeda in the Arabian Peninsula	1903
+Solomon Islands	1904
+Information / Communication / Transparency Ministry	1905
+Solomon Public Employees Union	1906
+Nickey Iyambo	1907
+Carlos Raúl Morales	1908
+Reuven Rivlin	1909
+Shiv Sena	1910
+Govt	1911
+Cristina Fernández de Kirchner	1912
+Georgios Sourlas	1913
+Senate of Burundi	1914
+National Border Service	1915
+Bahamas	1916
+Vasundhara Raje	1917
+Hacker group Anonymous	1918
+Al-Muhtadee Billah	1919
+Kyriakos Gerontopoulos	1920
+Antonio Tiu	1921
+Tony O'Reilly	1922
+Fahed al-Jasem el-Freij	1923
+Kumba Ialá	1924
+Yasir Arafat	1925
+Civil Service	1926
+Robin Dhowan	1927
+John Hoeven	1928
+Armed Separatist	1929
+Joaquim Barbosa	1930
+Mohammad Sharar	1931
+Professor	1932
+Kazumi Matsui	1933
+Ogaden National Liberation Front	1934
+Peter O'Neill	1935
+Secretariat	1936
+Bandar bin Sultan	1937
+Morocco	1938
+Mehmet Simsek	1939
+Army Personnel	1940
+State Media	1941
+Alhaji Lai Mohammed	1942
+University of Liberia	1943
+Michel Alaby	1944
+Cayman Islands	1945
+Boris Johnson	1946
+Charles Ndaxu Namoloh	1947
+Kenya Army	1948
+Sasa Radulovic	1949
+Tom Motsoahae Thabane	1950
+Intelligence	1951
+Aram Harutyunyan	1952
+Jeroen Dijsselbloem	1953
+Al Wefaq National Islamic Society	1954
+William Spindler	1955
+Kurdistan Workers' Party	1956
+Klaus Johannis	1957
+Julian Paul Assange	1958
+House of Representatives	1959
+Holy Man	1960
+Juan Antonio Coloma	1961
+Alejandro Ordoñez	1962
+James T. Hill	1963
+Kamba	1964
+Edward Natapei	1965
+Cyril Svoboda	1966
+Mehmet Yilmaz	1967
+Yi Xianliang	1968
+Luis Beder Herrera	1969
+The Chronicle	1970
+Kamal Kharazi	1971
+Carlos Mesa	1972
+Canadian Armed Forces	1973
+University of the Philippines	1974
+Afenifere	1975
+National Liberation Army	1976
+Lubomír Galko	1977
+ANC Youth League	1978
+West Papua	1979
+Vlad Filat	1980
+M. Scindia	1981
+Believer	1982
+Hannes Swoboda	1983
+Vnesheconombank	1984
+Mark McGowan	1985
+Celso de Mello	1986
+Vethowen Girl	1987
+Fan Changlong	1988
+Ibrahima Moctar Sarr	1989
+Rangarajan	1990
+Vakhtang Maisaia	1991
+Lamure Latour	1992
+Ainars Slesers	1993
+Roberto Torres Gonzales	1994
+Christiana Anyanwu	1995
+Other Authorities / Officials	1996
+Panasonic	1997
+Joschka Fischer	1998
+United States	1999
+Saud bin Faisal bin Abdul-Aziz	2000
+Gareth Evans	2001
+Găgăuzia	2002
+Zahid Hamid	2003
+Mary Broh	2004
+Nuri al-Maliki	2005
+Pranjal Yadav	2006
+Antanas Valionis	2007
+Olga Golodets	2008
+Alexander Valterovich Litvinenko	2009
+National Unity Party	2010
+Chris Olukolade	2011
+Haaretz	2012
+Tarun Gogoi	2013
+Macky Sall	2014
+Iván Velázquez-Caballero	2015
+People Associated with the Opposition	2016
+Mohammad Ali Najafi	2017
+Iurie Leanca	2018
+National Police	2019
+Ricardo Gonzalez	2020
+Milos Zeman	2021
+Department of Geologic Survey and its Mineral Exploration	2022
+Committee for State Security	2023
+Aigars Kalvitis	2024
+Media Personnel	2025
+University of Vienna	2026
+Asad Umar	2027
+Chile	2028
+Ibrahim Baré Maïnassara	2029
+Teodoro Obiang Nguema Mbasogo	2030
+Military	2031
+Umar Manko	2032
+Abdullah bin Nasser bin Khalifa Al-Thani	2033
+Ekaterina Zaharieva	2034
+Dahlan Iskan	2035
+Insurgent	2036
+Narasimha Rao	2037
+Guerrilla Leader	2038
+Kyung-wha Kang	2039
+Peter Nyombi	2040
+Jane Marriott	2041
+Masagos Zulkifli	2042
+Albania	2043
+Carlo Calenda	2044
+M.K. Narayanan	2045
+Finance / Economy / Commerce / Trade Ministry	2046
+Angus Houston	2047
+Reserve Personnel	2048
+Micky Rosenfeld	2049
+Ivan Safronov	2050
+Semana	2051
+Yalcin Akdogan	2052
+Chiang Wei-ling	2053
+Cable News Network	2054
+Mohamed Cheikh Elmoutaoikil	2055
+Utoni Nujoma	2056
+Cape Verde	2057
+Progressive Party	2058
+William Ruto	2059
+International Federation of Red Cross and Red Crescent Societies	2060
+Y. Sinha	2061
+Ganiyu Solomon	2062
+Ricardo Cabrisas	2063
+Clergy	2064
+Horacio Jaunarena	2065
+The Sunday Independent	2066
+Anthony Martinez	2067
+Economic and Monetary Community of Central Africa	2068
+Joachim Gauck	2069
+Naha Mint Mouknass	2070
+Radio France Internationale	2071
+Mahammed Boun Abdallah Dionne	2072
+Bolivarian National Guard	2073
+Ministry of Mining	2074
+Amal Clooney	2075
+John Major	2076
+Pavel Belobradek	2077
+Christian Democratic Party	2078
+Shibu Soren	2079
+Aafia Siddiqui	2080
+Defense Industry	2081
+Sondhi Limthongkul	2082
+Luxembourg	2083
+Sheikh Abdiaziz abu Mus'ab	2084
+PTT Public Company Limited	2085
+Sergei Donskoi	2086
+Viorel Hrebenciuc	2087
+Islamic Rebirth Party	2088
+Faruk Celik	2089
+Caroline Nzibe	2090
+Lawrence Springborg	2091
+María Ángela Holguín	2092
+Tan Sri Muhyiddin Yassin	2093
+Niko Peleshi	2094
+Tupou VI	2095
+Public Works	2096
+Sali Berisha	2097
+Assemblies	2098
+Julius Malema	2099
+Augustin Matata Ponyo	2100
+Zurab Abashidze	2101
+Moses Mathendele Dlamini	2102
+Zakir Hasanov	2103
+Australia Greens	2104
+Iranian Kurds	2105
+Anastasia Baburova	2106
+Social Renewal Party	2107
+César Villanueva	2108
+Party Member	2109
+Tony Blair	2110
+Jakaya Mrisho Kikwete	2111
+Doku Khamatovich Umarov	2112
+National Reform Movement	2113
+WAM news agency	2114
+Herbert Salber	2115
+Abdul Rahim Wardak	2116
+University of Johannesburg	2117
+Leon Panetta	2118
+Public Health Department	2119
+Sheikh Ahmed Abdullah	2120
+Farooq Abdullah	2121
+Gabor Vona	2122
+National Bank of Rwanda	2123
+Ministry of Shipping	2124
+Jose Ines Castillo Martinez	2125
+Haqqani Network	2126
+Álvaro García	2127
+Islamic Azad University	2128
+Dmytro Firtash	2129
+Sheikh Hamid	2130
+Sarah Jubril	2131
+Terrorist	2132
+Pierre Richard Casimir	2133
+Mari Pili Hernandez	2134
+Robert Hill	2135
+President of the Senate	2136
+Pheu Thai Party	2137
+Sekai Holland	2138
+Reinhold Mitterlehner	2139
+Shen Lyushun	2140
+Armed Gang	2141
+George Solo	2142
+Ona	2143
+Juan Fernando Cristo	2144
+Toubou people	2145
+Nazario Moreno González	2146
+Bank of Uganda	2147
+Lebanon	2148
+Tanya Plibersek	2149
+Tijuana Cartel	2150
+Javed Iqbal	2151
+Islamic Coalition Party	2152
+Mohammad Saleh Jowkar	2153
+Ibrahim Idris	2154
+Ri Su Yong	2155
+Patrick Manning	2156
+Military Academy	2157
+Revolutionary People's Party of Laos	2158
+Tea Banh	2159
+Cynthia Ligeard	2160
+Álvaro Antonio Alemán Healy	2161
+Karl Erjavec	2162
+District Commissioner R. Singh	2163
+Togo	2164
+Grupo Aeroportuario Del Pacifico	2165
+Joseph Stiglitz	2166
+Royal Thai Police	2167
+Tharman Shanmugaratnam	2168
+Mark James Mwandosya	2169
+Glaxosmithkline	2170
+Georgios Papandreou	2171
+Syed Akbaruddin	2172
+Benin	2173
+Muhammadu Buhari	2174
+Isaaq	2175
+Sikh Militant	2176
+Chukwudifu Oputa	2177
+Demeke Mekonnen	2178
+Monzer Makhous	2179
+Olajide Laleye	2180
+Dina Kawar	2181
+Jewel Howard-Taylor	2182
+Marilyn Ogar	2183
+Liberal Democratic Party	2184
+Kashim Shettima	2185
+Boy Rafli Amar	2186
+Christmas Island	2187
+Bermuda	2188
+House Speaker	2189
+Union Of Arab Banks	2190
+Mogens Jensen	2191
+Lui Tuck Yew	2192
+Yevhen Perebyinis	2193
+Pakistan People's Party	2194
+Thaksin Shinawatra	2195
+Ian Paisley	2196
+Ingush	2197
+Palestinian Territory, Occupied	2198
+Richard Sulík	2199
+Francois Beukman	2200
+Angela Merkel	2201
+Khemraj Ramjattan	2202
+Yasar Yakis	2203
+United Liberation Force of Assam	2204
+Pavol Pavlis	2205
+Abdul Hamid	2206
+Middle East	2207
+Josh Earnest	2208
+Gerhard Schröder	2209
+National Democratic Front	2210
+Amit Shah	2211
+Motol University Hospital	2212
+Russian Navy	2213
+Sir David Akers-Jones	2214
+Center for Strategic and International Studies	2215
+Sáliba	2216
+Shas	2217
+The Irrawaddy	2218
+Sumitra Mahajan	2219
+Michael Sata	2220
+Shimon Peres	2221
+Elizabeth Dipuo Peters	2222
+Anatoly Klyan	2223
+Julio Velarde	2224
+Senate Armed Services Committee	2225
+Ronald Lauder	2226
+University of Concepción	2227
+Sharad Yadav	2228
+Anders Breivik	2229
+Sadayuki Sakakibara	2230
+Jacob Oulanyah	2231
+Harish Rawat	2232
+Amal Movement	2233
+Hellenic Armed Forces	2234
+Liz O'Donnell	2235
+Party President	2236
+Philip Barton	2237
+American Chamber of Commerce	2238
+Giuseppe Morabito	2239
+Tehrik-i-Taliban Pakistan	2240
+Citigroup	2241
+Elizabeth II	2242
+Department of Defense	2243
+Special Court for Sierra Leone	2244
+House of Chiefs	2245
+Employee	2246
+Mulatu Teshome	2247
+Bhutan	2248
+Sudan People's Liberation Army	2249
+Atef Ebeid	2250
+Michael Woodhouse	2251
+Rasa Juknevičienė	2252
+El Salvador	2253
+Qotboddin Helal	2254
+Shivraj Patil	2255
+Aloizio Mercadante	2256
+Hisham Barakat	2257
+Republican Force	2258
+Achike Udenwa	2259
+Mikhail Margelov	2260
+Alik L. Alik	2261
+Special Commission	2262
+Rights Activist	2263
+Andriy Klyuyev	2264
+Megawati Sukarnoputri	2265
+Pavel Gubarev	2266
+Governor General	2267
+National Liberal Party	2268
+Zalmai Rassoul	2269
+South Asian Association for Regional Cooperation	2270
+Rashtrapati Bhawan	2271
+Ukraine	2272
+Gazprom Neft	2273
+Ibrahim Boubacar Keïta	2274
+Customs Official	2275
+International Government Organizations	2276
+Colombia	2277
+Surasak Kanchanarat	2278
+Taliban	2279
+Rachid Talbi Alami	2280
+Paddy Ashdown	2281
+Sindh High Court	2282
+Hasan Qazizadeh-Hashemi	2283
+Vitaliy Yarema	2284
+Alicia Ciciliani	2285
+Luke Foley	2286
+Horacio Cartes	2287
+Samuel Sitta	2288
+Hani Dahi	2289
+Khmer Rouge	2290
+Catherine Ashton	2291
+David Sanakoyev	2292
+Al Jazeera	2293
+Pol Gen Somyot Poompanmoung	2294
+David Clark	2295
+Samuel Doria Medina	2296
+János Áder	2297
+Luo Ying-shay	2298
+Mukhtar Ramalan Yero	2299
+Military Personnel - Special	2300
+Isa Ayo Salami	2301
+Sayed Khaiyum	2302
+John Delaney	2303
+Andrew Langa	2304
+Union des Forces Démocratiques de Guinée	2305
+Nermin Niksic	2306
+Solomon Makgale	2307
+Graz	2308
+Andrej Babis	2309
+Federica Mogherini	2310
+Benjamin Abalos	2311
+Tolbert Nyenswah	2312
+Pervez Musharraf	2313
+European Council on Foreign Relations	2314
+Public Prosecutor	2315
+Luis Alfonso Hoyos	2316
+Hellenic Navy	2317
+Nicola Sturgeon	2318
+Ronald Plasterk	2319
+Lalji Tandon	2320
+George Chaponda	2321
+Tawhid Brigade	2322
+National Radio and Television	2323
+Stefan Viktor Okonek	2324
+North Ossetia-Alania	2325
+Lok Sabha	2326
+Hun Sen	2327
+Maria Kiwanuka	2328
+Channel 1	2329
+Armed Band	2330
+Shinsuke Sugiyama	2331
+Abdul Aziz	2332
+Samajwadi Janata Party	2333
+Georgia	2334
+Roger B. Wilson	2335
+Supreme Court of Judicature	2336
+Amnesty International	2337
+Raul Hernandez	2338
+Dunya Maumoon	2339
+Central Bank of Liberia	2340
+Paquito Ochoa, Jr.	2341
+António Luís dos Santos da Costa	2342
+Makerere University	2343
+Umarali Quvvatov	2344
+Roman Khudyakov	2345
+Tenants	2346
+Nigeria Prays	2347
+Casimir Marie Ange Oyé-Mba	2348
+European Central Bank	2349
+Argentine Naval Prefecture	2350
+Laos	2351
+Alex Lee	2352
+Slovenia	2353
+John Robertson	2354
+Riyad Mansour	2355
+National Security Advisor	2356
+Sebastian Ndeitunga	2357
+Akhmatbek Keldibekov	2358
+Crimea	2359
+Tony Sithembiso Yengeni	2360
+Omar Abdel-Rahman	2361
+Labaran Maku	2362
+Ebrahim Yazdi	2363
+Serbian Army	2364
+Ministry of Women	2365
+Observers In	2366
+Horacio González	2367
+National Board of Revenue	2368
+Ireland	2369
+Gilberto Kassab	2370
+Maxon Mbendera	2371
+Bishop	2372
+Nigerian Navy	2373
+Godfrey Chidyausiku	2374
+Asylum Seeker	2375
+Development Council	2376
+Nikolay Nenchev	2377
+Namibia	2378
+Akhilesh Yadav	2379
+Yevgeny Shevchuk	2380
+Sujatha Singh	2381
+Myanmar	2382
+Arkady Dvorkovich	2383
+Nahas Angula	2384
+Kayode Aderanti	2385
+Archbishop	2386
+Hitman	2387
+Sambo Dasuki	2388
+Kader Arif	2389
+Indigenous People	2390
+Expatriate	2391
+Minister Patnaik	2392
+Eric Ken Shinseki	2393
+Jorge Todesca	2394
+Industrial Development Corporation of Zimbabwe	2395
+Palau	2396
+Enver Hoxhaj	2397
+National Salvation Government	2398
+Kamal al-Labwani	2399
+Justin Welby	2400
+Rioter	2401
+Chittagong University	2402
+Hezbul Mujahedeen	2403
+Khaled al-Obeidi	2404
+Gendermarie	2405
+Soumeylou Boubèye Maiga	2406
+Valery Heletei	2407
+Carlos M. Hernández López	2408
+Douglas Alexander	2409
+Daniel Russel	2410
+Cabinet / Council of Ministers / Advisors	2411
+Landowner	2412
+Shirin Ebadi	2413
+Susan Fennell	2414
+Ahmad Umar	2415
+Ravi Shankar Prasad	2416
+Louis Bapes	2417
+Indian Administered Kashmir	2418
+Zhao Ziyang	2419
+Janardan Dwivedi	2420
+Ram Paswan	2421
+Liberal National Party	2422
+Pogu Bitrus	2423
+Christian Democratic Union	2424
+Amrinder Singh	2425
+Medical Personnel	2426
+Insurgency	2427
+John Hamre	2428
+Armed Forces of the Republic of Armenia	2429
+Religion	2430
+Honduras	2431
+Haider Al-Abadi	2432
+Shahid Khan	2433
+Civil Lines	2434
+Beltrán-Leyva Cartel	2435
+Riyaz Bhatkal	2436
+Emilio Pérez Touriño	2437
+Tamil	2438
+Gagik Harutyunyan	2439
+CITIC Group	2440
+Omar Chehade	2441
+Umaru Tanko Al-Makura	2442
+Miroslava Nemcová	2443
+Roberto Amaral	2444
+Syria	2445
+Iranian Parliament	2446
+Russ Feingold	2447
+Nikolay Tsukanov	2448
+Xi Jinping	2449
+Alhaji Aliko Dangote	2450
+Women / Children / Social / Welfare / Development / Religion Ministry	2451
+Christoph Strasser	2452
+Anand Panyarachun	2453
+Priest	2454
+Keshari Nath Tripathi	2455
+David Satter	2456
+ActionAid	2457
+Djoko Suyanto	2458
+Conference of Nigerian Political Parties	2459
+Denmark	2460
+Tanzania Investment Centre	2461
+Azerbaijan	2462
+Vladimir Konstantinov	2463
+Sanjay Dutt	2464
+Guenther Oettinger	2465
+Gilberto Passos Gil Moreira	2466
+Juozas Bernatonis	2467
+Irakli Alasania	2468
+Ayatollah Seyyed Ahmad Alamolhoda	2469
+Hashmat Stanikzai	2470
+U.S. Army Europe	2471
+European Parliament	2472
+Independent High Electoral Commission	2473
+Mogho Naba	2474
+Nokia	2475
+Dan Diaconescu	2476
+Luis Alberto Lacalle	2477
+Margaret Alva	2478
+Scotland Yard	2479
+Comoros	2480
+Militia	2481
+Lesotho	2482
+Bathabile Dlamini	2483
+Al-Akhbar	2484
+Yesh Atid	2485
+Yoshimi Watanabe	2486
+Bill Haslam	2487
+Josip Broz Tito	2488
+Vasil Shtonov	2489
+Samrat Choudhary	2490
+Universal Church of the Kingdom of God	2491
+Armenian Army	2492
+Mazda	2493
+Daniel Mitov	2494
+Yoon Sang-jick	2495
+Attack Craft	2496
+Murli Deora	2497
+Central Bank	2498
+Takeshi Onaga	2499
+Nonaligned Movement	2500
+Transport Canada	2501
+Armenian Revolutionary Federation	2502
+Azores	2503
+Carrie Lam	2504
+Muslim Militant	2505
+Johnson & Johnson	2506
+Melis Turganbayev	2507
+Vyacheslav Shport	2508
+Deputy Commisioner Kumar	2509
+Jakup Krasniqi	2510
+Michael Andrew Gove	2511
+Mamnoon Hussain	2512
+Energy Corp	2513
+Roger Lumbala	2514
+Melissa Fleming	2515
+Press Trust of India	2516
+Ministry/Department of Technology	2517
+Ram Kripal Yadav	2518
+National Democratic Front of Bodoland	2519
+Chris Bowen	2520
+Huang Kun-huei	2521
+Vladimiro Montesinos	2522
+Alexis Tsipras	2523
+Air Namibia	2524
+Jerry Ekandjo	2525
+Oleg Ostapenko	2526
+Sinaloa Cartel	2527
+National Assembly of Pakistan	2528
+General Óscar Naranjo	2529
+João Baptista Kussumua	2530
+Raghuram Rajan	2531
+Anupong Paochinda	2532
+United Party for National Development	2533
+Supreme Constitutional Court	2534
+Eda Rivas	2535
+Environment Department/Ministry	2536
+Edwin Kanguatjivi	2537
+Movladi Saidarbievich Udugov	2538
+Mahmoud Ali Othman	2539
+Moro Islamic Liberation Front	2540
+National Council for Peace and Order of Thailand	2541
+Maasai	2542
+Treasury/Finance Ministry	2543
+Mindanao	2544
+Wojciech Jaruzelski	2545
+Movement for Democratic Change	2546
+Zoryan Shkiryak	2547
+Government Religious	2548
+Hakeem Baba-Ahmed	2549
+Turkish Kurds	2550
+Communist Party of India	2551
+Jew	2552
+Sheldon Adelson	2553
+Krisjanis Karins	2554
+Finland	2555
+Prem Tinsulanonda	2556
+New England	2557
+National Alliance	2558
+Silvio Berlusconi	2559
+Democratic Left	2560
+Okey Wali	2561
+Aronda Nyakairima	2562
+Eduardo Buzzi	2563
+Jayant Patel	2564
+Ansar ash-Shari'a	2565
+Member of Legislative	2566
+Sergey Viktorovich Lavrov	2567
+Christian Democratic Movement	2568
+Bernd Lange	2569
+Mandla Mandela	2570
+Congress of South African Trade Unions	2571
+Chiang Ching-kuo	2572
+Chief Court Judge	2573
+John Garang	2574
+George Akume	2575
+Kuol Manyang Juuk	2576
+Lazarus Chakwera	2577
+Stuart A. Levey	2578
+National Assembly of Kuwait	2579
+Kofi Annan	2580
+Prosperous Armenia	2581
+Nidec Corporation	2582
+Mustafa Dzhemilev	2583
+Henry Rotich	2584
+Jean-Luc Dehaene	2585
+John Pombe Magufuli	2586
+Richard Sezibera	2587
+Ministry of Administrative Development	2588
+Houthis	2589
+Abdikarim Hussein Guled	2590
+Baghdadi Ali Mahmudi	2591
+Scholar	2592
+Bhupinder Singh Hooda	2593
+Pakistan administered Kashmir	2594
+Scientist	2595
+Jeff Seeney	2596
+Selby Alan Masibonge Baqwa	2597
+Ruhakana Rugunda	2598
+Portugal	2599
+Janata	2600
+Belarus	2601
+Zagazig University	2602
+Manuel Zelaya	2603
+Chris Murphy	2604
+Resistance Group	2605
+Islamic Militant	2606
+Christine Milne	2607
+Martin Wambora	2608
+United Democratic Movement	2609
+Jeffrey Fowle	2610
+Spanish Armed Forces	2611
+Ehsanullah Ehsan	2612
+Denis Napthine	2613
+Akja Nuberdiyeva	2614
+Liyel Imoke	2615
+Theo-Ben Gurirab	2616
+UAE Armed Forces	2617
+Phung Quang Thanh	2618
+King Pu-tsung	2619
+Vincent Gray	2620
+Kenya Civil Aviation Authority	2621
+Muslim Rights Concern	2622
+Andrei Kelin	2623
+Junior Chamber International	2624
+Terrorist Insurgent Group	2625
+Dino Bouterse	2626
+Military Transport Plane	2627
+Wadhawa Singh	2628
+Radovan Krejcir	2629
+Attack Helicopter	2630
+Municipal Court	2631
+Samsung	2632
+United Progressive Alliance	2633
+Estonia	2634
+Raider	2635
+Mahathir Mohamad	2636
+Messiria	2637
+Randgold Resources	2638
+Health Ministry	2639
+Rashid Gumarovich Nurgaliyev	2640
+Mladen Ivanic	2641
+Kittiratt Na-Ranong	2642
+Abdelhamid Abou Zeid	2643
+Gerrie Nel	2644
+Hubert Alexander Ingraham	2645
+Fiona Woolf	2646
+Constitutional Court	2647
+Civil Aviation Authority of the Philippines	2648
+David Parirenyatwa	2649
+Combatant	2650
+Taiwan	2651
+Chen Ming-tang	2652
+Ministry of National Security	2653
+Susi Pudjiastuti	2654
+Charles Koffi Diby	2655
+Abdul'aziz Abubakar Yari	2656
+National Secretariat of the Polisario	2657
+Neri Geller	2658
+Zaheerul Islam	2659
+Richard Norland	2660
+Central Security Forces	2661
+National Democratic Party	2662
+United Nations Children's Fund	2663
+Jose Luis de Matos	2664
+Attahiru Dalhatu Bafarawa	2665
+Coalition of the Radical Left	2666
+Der Spiegel	2667
+Al-Marada Movement	2668
+George O'Toole	2669
+Kisii	2670
+Curacao	2671
+Winthai Suvari	2672
+Phelekezela Mphoko	2673
+Ayman Farid Abu-Hadid	2674
+Nathan Cirillo	2675
+United Bank	2676
+Akali Dal	2677
+Ibrahim Hassan Dankwambo	2678
+Oluṣẹgun Ọbasanjọ	2679
+Organized Crime	2680
+Iftikhar Muhammad Chaudhry	2681
+National Coalition Party	2682
+Mswati III	2683
+Justin Trudeau	2684
+Nigerian Tribune	2685
+Dumiso Dabengwa	2686
+Navy Personnel	2687
+Lloyds Banking	2688
+Madeleine McCann	2689
+Tomás Malatinský	2690
+United Democratic Party	2691
+Zaki Bani-Irshayd	2692
+Rajiv Shah	2693
+Mario Mauro	2694
+Zambia	2695
+Scott Emerson	2696
+Mansour Al-Otaibi	2697
+Chief of Staff	2698
+Lazarus Baez	2699
+Valdas Adamkus	2700
+Nonofo Molefhi	2701
+Uahekua Herunga	2702
+Dave Heineman	2703
+Davies Ibiamu Ikanya	2704
+Economic Community of Central African States	2705
+Ruling Alliance	2706
+Saleh Muhammed al-Mutlaq	2707
+Samuel Sarr	2708
+Gerd Mueller	2709
+Christiana Tah	2710
+Victoria Nuland	2711
+University of Limpopo	2712
+Simon Khaya Moyo	2713
+Berkin Elvan	2714
+A.P. Sharma	2715
+David Miliband	2716
+Greg Clark	2717
+George Adwan	2718
+Jay Inslee	2719
+Francois Molins	2720
+Intelligence Chief	2721
+Babacar Gaye	2722
+Mike Simpson	2723
+State Security Court	2724
+Charles Milupi	2725
+Naharnet	2726
+Gamini Peiris	2727
+Freedom Fighter	2728
+Nordic Council	2729
+Mohammad Javad Zarif	2730
+Zhang Dejiang	2731
+Chen Guangcheng	2732
+Patria	2733
+Ivo H. Daalder	2734
+Babu Lal Nagar	2735
+Serik Akhmetov	2736
+Turkish Coast Guard	2737
+Pascal Simbikangwa	2738
+Mzukisi Fatyela	2739
+Mahendra Pandey	2740
+Abdullatif bin Rashid Al-Zayani	2741
+Gibran Bassil	2742
+Kakar Tribe	2743
+Bulgaria	2744
+Zimbabwe	2745
+Syed Ali Shah Geelani	2746
+Special Rapporteurs of the United Nations	2747
+Hafiz Rashid	2748
+Sergey Kuzhugetovich Shoygu	2749
+Tamar Beruchashvili	2750
+Daniel Arap Moi	2751
+Agence France-Presse	2752
+Sirichan Ngathong	2753
+Niger Delta Development Commission	2754
+Daily Monitor	2755
+Yuriy Sergeyev	2756
+Islamic Extremist Group	2757
+Oleh Lyashko	2758
+South Africa	2759
+Salim Idris	2760
+Syed Ahmed	2761
+Maldives	2762
+Hashim Thaçi	2763
+Violent Group	2764
+Terry McAuliffe	2765
+Shigeru Ishiba	2766
+Fernando Gonzalez	2767
+Industry	2768
+Sule Lamido	2769
+Nation Media Group	2770
+Head of Government	2771
+Retired	2772
+Reuben Theodore Sindac	2773
+Sergey Melikov	2774
+Armed Insurgent	2775
+Burundi	2776
+Popular Assembly	2777
+Ram Chandra Yadav	2778
+Imad Mugniyah	2779
+Gediminas Kirkilas	2780
+Grand National Party	2781
+Abu Sayyaf	2782
+Martin McGuinness	2783
+Tim Nicholls	2784
+Suleiman Abba	2785
+Moataz Hejazi	2786
+Sierra Leone	2787
+William Kabogo	2788
+Confindustria	2789
+Tsvetlin Yovchev	2790
+Benny Gantz	2791
+Freedom and Justice Party	2792
+Vladimir Miklushevskiy	2793
+Hugo Carvajal	2794
+Abdulla Yameen	2795
+James Rubin	2796
+Ingushetia	2797
+Movement for the Survival of the Ogoni People	2798
+Veera Somkwamkid	2799
+Salzburg	2800
+Dimeji Bankole	2801
+Political Parties	2802
+Peter Foster	2803
+USAID	2804
+Holding Company	2805
+Iyad Ameen Madani	2806
+Simbarashe Mumbengegwi	2807
+Solomon Arase	2808
+Gideon Sa'ar	2809
+Anifah Aman	2810
+Yerbolat Dosayev	2811
+High Commission for Refugees	2812
+Constantin Nita	2813
+Grand Ducal Police	2814
+Manuel Monteiro de Castro	2815
+Yariv Levin	2816
+United Nations Interim Administration in Kosovo	2817
+Mulikat Akande-Adeola	2818
+Businessperson	2819
+Brasseries du Cameroun	2820
+Asang Laol	2821
+Sheikh Khaled Al Jarrah Al Sabah	2822
+Governing Party	2823
+Malawi Electoral Commission	2824
+Jens Stoltenberg	2825
+Jamaat I Islami	2826
+Héctor Palacios Ruíz	2827
+Gladys Berejiklian	2828
+Tim Hudak	2829
+Abdul Madzhid	2830
+Claudio Lozano	2831
+North American Aerospace Defense Command	2832
+John Bruton	2833
+Ruling Party	2834
+Mitsubishi	2835
+Martin Lomuro	2836
+Paul Chibingu	2837
+Jeremy Clarkson	2838
+Cobra Matata	2839
+Orlando Zapata	2840
+John Hogg	2841
+The Poor	2842
+Chaturon Chaisang	2843
+Marine Corp	2844
+Sergei Anatolievich Storchak	2845
+Al Gore	2846
+Natascha Maria Kampusch	2847
+Mikhail Yuryevich Zurabov	2848
+UBS	2849
+Didmus Noel Edwin Mutasa	2850
+Joao Lourenco	2851
+Abdi Shakur Sheikh Hassan	2852
+Ali Al-Za'tari	2853
+Peter Greste	2854
+Sadhu	2855
+Tom Fletcher	2856
+Robin L. Raphel	2857
+Central African Republic	2858
+Human Rights Watch	2859
+Charles Chen	2860
+Government Lawyer/Representative	2861
+Musa Yego	2862
+Lilian Samaniego	2863
+Chalerm Yoobamrung	2864
+Oman	2865
+Xu Caihou	2866
+The Royal Bank of Scotland Group	2867
+Barclays PLC	2868
+Mustapha Akanbi	2869
+Meretz	2870
+Wu Chih-yang	2871
+George Mthethwa	2872
+Hoang Tuan Anh	2873
+Rasim Ljajic	2874
+Mohamed El Ghazi	2875
+Italy	2876
+Yamoussa Camara	2877
+Ramalinga Reddy	2878
+Envoy	2879
+Khaled Bahah	2880
+Lindiwe Nonceba Sisulu	2881
+Sabah Khaled Al-Hamad Al-Sabah	2882
+Denis MacShane	2883
+Nguyen Xuan Phuc	2884
+National Social Security Authority	2885
+Urmas Reinsalu	2886
+Koya Nishikawa	2887
+Martin Barták	2888
+Kiribati	2889
+Fessehaye Yohannes	2890
+Isabel Carrasco	2891
+Aderenle Shinaba	2892
+Ministry of Youth	2893
+Sweden	2894
+Jan Pejsek	2895
+Charles de Gaulle	2896
+Progressive Socialist Party	2897
+Philippine Overseas Employment Administration	2898
+Loren Legarda	2899
+Syrian Kurds	2900
+Fareed Zakaria	2901
+Tim Kaine	2902
+Makame Mbarawa	2903
+Medical Association	2904
+Eli Yishai	2905
+International Federation of Journalists	2906
+Arsen Avakov	2907
+Alfredo Rada	2908
+Madagascar	2909
+Lawrence Eagleburger	2910
+Tony Momoh	2911
+Reza Ostadi Moghadam	2912
+Yasuhisa Shiozaki	2913
+Mikhail Yefimovich Fradkov	2914
+Ministry of Education, Youth and Science	2915
+Jens Weidmann	2916
+Ofwono Opondo	2917
+Sir George Young	2918
+Julien Paluku Kahongya	2919
+Dissident	2920
+El Tiempo	2921
+Bob Paulson	2922
+James Wani Igga	2923
+Farooq Sattar	2924
+Cao Duc Phat	2925
+Pierre Moussa	2926
+Milan Knazko	2927
+Awami	2928
+Muslim	2929
+Hassan Joho	2930
+Iñigo Urkullu	2931
+William Chandler	2932
+Dimitris Koutsoumbas	2933
+Gary Nkombo	2934
+ASEAN Defense Ministers	2935
+Mujahideen	2936
+Jagadish Shettar	2937
+Leila Zerrougui	2938
+Balarabe Musa	2939
+Riad Salameh	2940
+Abhisit Vejjajiva	2941
+Rally of the Republicans	2942
+Ijaw Youth Council	2943
+Detainee	2944
+Nicholas Hugh Minchin	2945
+Army Intelligence	2946
+Pussy Riot	2947
+Radical Party	2948
+Gjorge Ivanov	2949
+Heather Mack	2950
+Simon Gass	2951
+United Russia	2952
+Levon Ter-Petrosyan	2953
+Interparliamentary Union	2954
+Cambodia	2955
+Geng Yansheng	2956
+George Huruma Mkuchika	2957
+Inspector General	2958
+PDP-ANA	2959
+Islami Chhatra Shibir	2960
+Intigam Aliyev	2961
+Saeed Mortazavi	2962
+Alain Moka	2963
+Intelligence and Security Committee	2964
+Strabag	2965
+Gunnar Bragi Sveinsson	2966
+Undersecretary	2967
+Fumio Kishida	2968
+Martin Stropnický	2969
+Verkhovna Rada	2970
+Janos Lazar	2971
+Henry Kissinger	2972
+Mamadou Ndala	2973
+Mary Robinson	2974
+Shigefumi Matsuzawa	2975
+Cameroon	2976
+John Githongo	2977
+Nazrul Islam	2978
+Lawyer/Attorney	2979
+Somsavat Lengsava	2980
+Anwa Dramat	2981
+John McCallum	2982
+He Guoqiang	2983
+Akitaka Saiki	2984
+Department of the Treasury	2985
+Ananth Kumar	2986
+Cho Tai-young	2987
+State Duma	2988
+Ted Poe	2989
+Anandiben Patel	2990
+Queen Ranya	2991
+Civic Democratic Party	2992
+Alejandro Collia	2993
+Claire McCaskill	2994
+Daewoo	2995
+Federal Judge	2996
+Boko Haram	2997
+Felipe de Borbon	2998
+Henry Puna	2999
+Leyla Yunus	3000
+Zimbabwe Republic Police	3001
+Gholamreza Ansari	3002
+Bala Ngilari	3003
+Pedro Joaquin Coldwell	3004
+Robert Menendez	3005
+Benazir Bhutto	3006
+Quds Force	3007
+Norodom Sihanouk	3008
+Manuel Augusto	3009
+Prabhat Kumar	3010
+Barry McCaffrey	3011
+Jonathan Moyo	3012
+Dmitry Nikolayevich Kozak	3013
+AT&T	3014
+Viktor Muzhenko	3015
+Foroyaa	3016
+Hacker	3017
+Abdallah al-Maatouq	3018
+Sheikh Hasina Wajed	3019
+Raymond Araiji	3020
+Georgian Party	3021
+Lal Krishna Advani	3022
+Jabhat al-Nusra	3023
+Dinka	3024
+Oodua Peoples Congress	3025
+Abdullah Gül	3026
+Geoffrey Pyatt	3027
+Congress of Deputies	3028
+Portia Simpson Miller	3029
+Vijay Goel	3030
+Hakainde Hichilema	3031
+Sukhumbhand Paribatra	3032
+Jonathan Greenert	3033
+Eastern Mindanao Command	3034
+Alexander Stubb	3035
+Jorge Mejia	3036
+Keat Chhon	3037
+Tablig Jamaat	3038
+S. Jayakumar	3039
+Media Rights Group	3040
+Pavlo Sheremeta	3041
+Ashraf Ghani Ahmadzai	3042
+Muhammad bin Nayef	3043
+Poland	3044
+Admiral	3045
+Teodoro Nguema Obiang Mangue	3046
+Alexander Panin	3047
+Catholic Priest	3048
+Imtiaz Sooliman	3049
+Kaptan Singh Solanki	3050
+Roberto Maroni	3051
+Channel One	3052
+Rachmat Gobel	3053
+Air France	3054
+Junaid Thorne	3055
+Africa	3056
+Andris Piebalgs	3057
+Arab Israelis	3058
+Andrei Stenin	3059
+Robert M. Gates	3060
+Archdiocese	3061
+Ismet Yilmaz	3062
+Formosa Plastics	3063
+Academic Staff Union of Universities	3064
+Bachana Akhalaia	3065
+Svoboda	3066
+Al-Mustaqbal	3067
+Israel	3068
+Canadian Broadcasting Corporation	3069
+Mayotte	3070
+Panama	3071
+Ryoo Kihl-jae	3072
+Maurice Williamson	3073
+Catholic Missionaries	3074
+Winston Peters	3075
+Mars Di Bartolomeo	3076
+Salah al-Bardawil	3077
+Spain	3078
+Wilben Mayor	3079
+Sao Tome and Principe	3080
+Senate	3081
+Revolutionary Nationalist Movement	3082
+Djibouti	3083
+Student Islamic Movement of India	3084
+Ilich Ramírez Sánchez	3085
+Uganda	3086
+Nawa-i-Waqt	3087
+Ecopetrol	3088
+Spy Plane	3089
+Fernando Sánchez López	3090
+Beja Congress	3091
+Cote d'Ivoire	3092
+Kathleen Stephens	3093
+Pendukeni Iivula-Ithana	3094
+Jeannot Kouadio Ahoussou	3095
+Abdiweli Sheikh Ahmed	3096
+Rajinder Singh	3097
+Shining Path	3098
+Mohamed Ould Abdel Aziz	3099
+Victor Ponta	3100
+Jatiya (national	3101
+Kiran Bedi	3102
+Jose Mario Vaz	3103
+Lee Myung Bak	3104
+Elmar Mammadyarov	3105
+Central European University	3106
+Saimir Tahiri	3107
+Security Council	3108
+Criminal	3109
+Liberal Democrats	3110
+Iran Khodro Company	3111
+Tim Scott	3112
+Nuer	3113
+Transparency International	3114
+Liu Zhenmin	3115
+Lithuanian Armed Forces	3116
+Youssef Boutros Ghali	3117
+General Union of Tunisian Students	3118
+Procter & Gamble	3119
+Khalid bin Ali Al Khalifa	3120
+Nigerian Bar Association	3121
+Assembly of First Nations	3122
+Mahdi Army	3123
+Nur Ahmad Nikbakht	3124
+Progressive Political Party	3125
+Joseph Katema	3126
+Seyoum Mesfin	3127
+Vera Jourova	3128
+Maria Servini de Cubria	3129
+Communist Party	3130
+Tahirul Qadri	3131
+Inan Ozyildiz	3132
+Albert Kawana	3133
+Youssouf Bakayoko	3134
+Chulalongkorn University	3135
+Alan Dershowitz	3136
+Stavros Lambrinidis	3137
+Solidaridad	3138
+Congress	3139
+Henri Konan Bedie	3140
+Jayant Sinha	3141
+Ricardo Colombi	3142
+Arminio Fraga	3143
+Didier Burkhalter	3144
+Pier Ferdinando Casini	3145
+Martin Lidegaard	3146
+Venstre	3147
+Malaysian Indian Congress	3148
+Pier Luigi Bersani	3149
+Pedro Cateriano Bellido	3150
+Raúl Castro	3151
+Berislav Rončević	3152
+Vietnam	3153
+Mohamed Hassad	3154
+Ministry of Communication	3155
+Lashkar-e-Taiba	3156
+Party of National Unity	3157
+Macedonia	3158
+Lawmaker	3159
+Dawa Khan Minapal	3160
+Croatian Democratic Union	3161
+Ahmadu Bello University	3162
+Congolese National Police	3163
+Barack Obama	3164
+Rajya Sabha	3165
+Isao Iijima	3166
+Thief	3167
+Patience Jonathan	3168
+Meir Sheetrit	3169
+Abraham Tekeste	3170
+Farm Worker	3171
+Emperor Akihito	3172
+Madeleine Albright	3173
+Henri Hélou	3174
+Serhiy Hayduk	3175
+Angolan Armed Forces	3176
+Sheikh Hamad bin Khalifa al-Thani	3177
+Peace and Security Council	3178
+Edgard Arevalo	3179
+David Miller	3180
+Givi Targamadze	3181
+Will Hodgman	3182
+Arturas Paulauskas	3183
+Congo	3184
+Moro National Liberation Front	3185
+M.R. Sharma	3186
+Fire Brigade	3187
+People First Party Taiwan	3188
+East Turkistan Islamic Movement	3189
+Jamil Mahuad	3190
+Dustin McDaniel	3191
+Dimitrios Avramopoulos	3192
+Secretary of State for the Home Department	3193
+Banharn Silpa-archa	3194
+Christian Noyer	3195
+Alfred Romualdez	3196
+Le Hong Anh	3197
+Jim Moran	3198
+Datuk Seri Musa Aman	3199
+Alaa Abdel Fattah	3200
+Mark Francois	3201
+Zheng Zeguang	3202
+Hungary	3203
+Margaret Chan	3204
+Raif Badawi	3205
+Manohar Lal Khattar	3206
+Dinh Tien Dung	3207
+Aristide Sokambi	3208
+François Bozizé	3209
+Elizabeth Warren	3210
+Overseas Development Institute	3211
+Belize	3212
+Ma Xiaoguang	3213
+Annick Girardin	3214
+Yasser Ali	3215
+Ethnic Group	3216
+Ibrahim Hassan Saif	3217
+Aleksander Kwasniewski	3218
+Rodrigo Londono	3219
+Emal Faizi	3220
+Murderer	3221
+Mauro Borges	3222
+Government Official	3223
+Ruling Parties	3224
+David Narmania	3225
+Alex Salmond	3226
+Indonesia	3227
+Human Rights Commission	3228
+Teshome Togo	3229
+Resham Singh	3230
+Gazeta Wyborcza	3231
+Secret Agent	3232
+Patricia de Lille	3233
+Smriti Irani	3234
+Adli Mansour	3235
+Ruhul Kabir Rizvi	3236
+International Monetary Fund	3237
+Robert Cazanciuc	3238
+Defense / Security Ministry	3239
+Umar al Bashir	3240
+Liviu Voinea	3241
+Globo Television	3242
+Displaced Families	3243
+Blogger	3244
+Adel Labib	3245
+Doctors Without Borders	3246
+Guinea	3247
+John Faulkner	3248
+Débora Giorgi	3249
+Rana Sanaullah	3250
+Yunus Qanuni	3251
+Alexander Downer	3252
+Fumio Kyuma	3253
+Volodymyr Polyovyy	3254
+Janis Urbanovics	3255
+Lapo Pistelli	3256
+Juan Carlos Fabrega	3257
+Arnaud Montebourg	3258
+Alexei Miller	3259
+Resistance Movement	3260
+Chiz Escudero	3261
+Winnie Madikizela-Mandela	3262
+Ministry of Works and Transport	3263
+Murat Yetkin	3264
+Yasin Bhatkal	3265
+Boris Abramovich Berezovsky	3266
+John Bercow	3267
+TDC	3268
+Joseph Robinette Biden	3269
+Mahamat Saleh Annadif	3270
+All Progressives Congress	3271
+Ebrahim Patel	3272
+Non-Governmental Organizations	3273
+Carlos Alberto Reutemann	3274
+The Daily News	3275
+Nguyen Phu Trong	3276
+Luis Miguel Castilla	3277
+MiG Corporation	3278
+Denis Berezovsky	3279
+Stephen Masato Wasira	3280
+Katoo Ole Metito	3281
+Arthit Ourairat	3282
+Salvatore Girone	3283
+Pascal Affi N'Guessan	3284
+Philipp Rösler	3285
+Ahmad Chalabi	3286
+Chibuike Rotimi Amaechi	3287
+Michael Brown	3288
+Keriako Tobiko	3289
+Communist Party UML	3290
+Zoran Zaev	3291
+Army National Guard	3292
+International Court of Justice	3293
+Coalition for Democratic Unity	3294
+Hu Deping	3295
+Fayez Tarawneh	3296
+Awá	3297
+Carlos Pascual	3298
+Galicia	3299
+Socialist Party	3300
+Business	3301
+Maxwell Gicheru	3302
+Seamen	3303
+National Youth Service	3304
+Hama Amadou	3305
+Bismillah Khan Mohammadi	3306
+Pietro Parolin	3307
+Augusto Pinochet	3308
+Marco Hausiku	3309
+Tamil National Alliance	3310
+Faith Pansy Tlakula	3311
+Ebrahim Ebrahim	3312
+Abu Salem	3313
+Oversight Court	3314
+John Baird	3315
+Olusegun Agbaje	3316
+Mark Simmonds	3317
+Latin America	3318
+Mehdi Hasan	3319
+The Hague	3320
+National Liberation Party	3321
+S.P. Singh	3322
+Ahmad Zia Abdulzai	3323
+Christian Missionaries	3324
+Waseda University	3325
+Yasuo Fukuda	3326
+Rwanda	3327
+Nir Barkat	3328
+Vladimir Yevtushenkov	3329
+Cheng Guoping	3330
+Randolph Frederich Rodrigues Alves	3331
+Yeh Shih-wen	3332
+Mozambique	3333
+Kyoto University	3334
+Dragomir Stoynev	3335
+Benjamin William Mkapa	3336
+Mega Channel	3337
+Clydesdale Bank	3338
+Stephen Rapp	3339
+Anti Defamation League	3340
+Minister Deo	3341
+Jack Snelling	3342
+Bosnia and Herzegovina	3343
+People's Protection Units	3344
+Sumitomo Mitsui	3345
+Argentine Episcopal Conference	3346
+Tanzania	3347
+Evo Morales	3348
+Konstantin Dolgov	3349
+Supreme Court of Nigeria	3350
+Oommen Chandy	3351
+Bharatiya Janata	3352
+Kim Daejung	3353
+Andrius Kubilius	3354
+Kęstutis Macijauskas	3355
+Wolfgang Priklopil	3356
+Bangladesh	3357
+Hossein Salami	3358
+Gideon Mung'aro	3359
+Gadzali Jaafar	3360
+Vojtěch Filip	3361
+Florin Georgescu	3362
+Anthony Garotinho	3363
+Faisal al-Fayez	3364
+Petrochina	3365
+National Intelligence Bureau	3366
+John Kerry	3367
+United Aircraft Corporation	3368
+Sherry Rehman	3369
+Charles Taylor	3370
+Afonso Pedro Canga	3371
+People's Congress	3372
+Kamran Khan	3373
+Brad Adams	3374
+Patrick Brazeau	3375
+Héctor Méndez	3376
+Mohamed Mire	3377
+Sanjeev Kumar	3378
+Main Opposition	3379
+Somalia	3380
+David Dondua	3381
+Stefan Harabin	3382
+Maria Mutagamba	3383
+National Iranian Oil Refining and Distribution Company	3384
+Bertie Ahern	3385
+Ali Hassan Khalil	3386
+Avtar Singh	3387
+Ahmad Muhammad Ali	3388
+Valeriu Troenco	3389
+Kivutha Kibwana	3390
+Jawad al-Bulani	3391
+Department of Transportation	3392
+Bernardino Leon	3393
+Sushil Koirala	3394
+Anote Tong	3395
+Chuck Hagel	3396
+Southwest Airlines	3397
+Nhial Deng Nhial	3398
+Amr Mohammed Moussa	3399
+Ahmed Ezz	3400
+Valdis Dombrovskis	3401
+Israeli Defense Forces	3402
+Héctor Beltrán Leyva	3403
+Western Cape High Court	3404
+Inspector General of Police and Customs	3405
+Kevin Rudd	3406
+Tokon Mamytov	3407
+Human Rights Group	3408
+Peacekeeping Troop	3409
+Guillaume Soro	3410
+Uzbekistan	3411
+New Wafd Party	3412
+Fang Fenghui	3413
+Ron Dermer	3414
+Henry M. Paulson	3415
+Burkina Faso	3416
+Peter Costello	3417
+Sheikh Khalifa bin Ahmad Al-Khalifa	3418
+Isma'iliya	3419
+François Hollande	3420
+Branko Grcic	3421
+Taavi Rõivas	3422
+Datuk Seri Tengku Adnan Tengku Mansor	3423
+Lungelo Dlamini	3424
+Humberto Schiavoni	3425
+Frene Noshir Ginwala	3426
+Isabel Peron	3427
+Djoomart Otorbaev	3428
+Mauritius	3429
+Francis Muthaura	3430
+Joaquim Vieira Ferreira Levy	3431
+Erste Bank	3432
+Peace Action	3433
+New Patriotic Party	3434
+Associate Justice	3435
+Bill English	3436
+Juan Carlos Romero	3437
+Ewald Nowotny	3438
+Aung Thaung	3439
+Rashtriya Swayamsevak Sangh	3440
+Chee Soon Juan	3441
+Mamadou Diop	3442
+Uganda Police Force	3443
+Yasin Aktay	3444
+Georgi Purvanov	3445
+Economic Cooperation Organization	3446
+Naxali	3447
+Deval Patrick	3448
+Carlos Álvarez	3449
+Seyran Ohanyan	3450
+Supreme Council for Women	3451
+Wilson Uwujaren	3452
+Infosys	3453
+Andal Ampatuan Sr	3454
+Ondrej Liska	3455
+Vladimir Drobnjak	3456
+David Jones	3457
+Tulsi Gabbard	3458
+Legislature	3459
+Miguel Ángel Rodríguez	3460
+Lithuania	3461
+U.S. Pacific Air Force	3462
+Edgars Rinkevics	3463
+Vojislav Šešelj	3464
+Federal Police	3465
+Moon Chang Keuk	3466
+Mathew Batsiua	3467
+Likud	3468
+Sudan News Agency	3469
+Udaya Gammanpila	3470
+Christoforos Fokaides	3471
+Army Chief of General Staff	3472
+Takata	3473
+Gwendolyn Garcia	3474
+Union des Forces Républicaines	3475
+Fawaz al-Itan	3476
+Raja Bhaiya	3477
+Nasser Judeh	3478
+Sheikh Hamad bin Isa al Khalifah	3479
+Benjamin Martins	3480
+Villager	3481
+John Tefft	3482
+Air Force Chief	3483
+Chart Thai	3484
+Amara Essy	3485
+USS Kidd	3486
+Adil Abdul-Mahdi	3487
+Tien Chiu Chin	3488
+Ion Iliescu	3489
+Keith Rowley	3490
+Tanzania Investment Bank	3491
+Kazakhstan	3492
