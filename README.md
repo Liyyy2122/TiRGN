@@ -12,15 +12,6 @@ pip install -r requirement.txt
 
 
 ### Process data
-First, unzip and unpack the data files 
-```
-unzip data.zip
-```
-For the three ICEWS datasets `ICEWS18`, `ICEWS14`, `ICEWS05-15`, go into the dataset folder in the `./data` directory and run the following command to construct the static graph.
-```
-cd ./data/<dataset>
-python ent2word.py
-```
 For all the datasets, get the history of their entities and relations.
 ```
 cd src
