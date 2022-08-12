@@ -106,4 +106,13 @@ python main.py -d GDELT --history-rate 0.3 --train-history-len 7 --test-history-
 
 ### Cite
 
-Paper is on the way.
+Please cite as:
+~~~
+@inproceedings{DBLP:conf/ijcai/LiS022,
+  author    = {Yujia Li and Shiliang Sun and Jing Zhao},
+  title     = {TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence, {IJCAI} 2022, Vienna, Austria, 23-29 July 2022},
+  pages     = {2152--2158},
+  year      = {2022},
+}
+~~~
